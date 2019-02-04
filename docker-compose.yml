@@ -1,0 +1,11 @@
+# Docker-Compose version
+version: "2.1"
+
+# Composed services
+services:
+  # API
+  speechli-crawler:
+    build: .
+    command: python main.py --all
+    volumes:
+      - ./data:/usr/src/app/data
