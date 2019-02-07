@@ -22,6 +22,11 @@ def main():
         action="store_true",
         help="Crawl the Gutenberg Project for content"
     )
+    parser.add_argument(
+        "--genius",
+        action="store_true",
+        help="Crawl the Genius Lyrics for content"
+    )
     args = parser.parse_args()
     crawler.crawl(**vars(args))
 

@@ -6,6 +6,6 @@ services:
   # API
   speechli-crawler:
     build: .
-    command: python main.py --all
+    command: python main.py --genius
     volumes:
       - ./data:/usr/src/app/data
