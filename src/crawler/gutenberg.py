@@ -72,9 +72,12 @@ def retrieve_index(no_cache=False):
             fpath.parent.mkdir(parents=True)
         crawlable = Crawlable(url)
         crawlable.retrieve()
-        data = [(clean(link),) for link in crawlable.parse("li > .extiw")]
-        write(fpath, data)
-        print(f"\tSuccessfully retrieved index.")
+        if crawlable.success:
+            data = [(clean(link),) for link in crawlable.parse("li > .extiw")]
+            write(fpath, data)
+            print(f"\tSuccessfully retrieved index.")
+        else:
+            print(f"\tNo content available.")
 
 
 def retrieve_from_index(no_cache=False):

@@ -1,11 +1,10 @@
 """Hub for invoking sub-crawlers for each domain of interest."""
-from .gutenberg import fetch as gb
-from .genius import retrieve_index as gen
+from . import gutenberg as gb, genius as gen
 
 
 def crawl(gutenberg=False, genius=False, all=False, **kwargs):
     """Invoke crawlers."""
     if all or genius:
-        gen()
+        gen.retrieve_index()
     elif all or gutenberg:
-        gb(**kwargs)
+        gb.fetch(**kwargs)
