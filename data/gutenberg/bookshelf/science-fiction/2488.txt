@@ -20,11 +20,13 @@ Information on contacting Project Gutenberg to get Etexts, and
 further information is included below.  We need your donations.
 
 
-20000 Leagues Under the Seas
+Title: 20000 Leagues Under the Seas
 
-by Jules Verne
+Author: Jules Verne
 
-January, 2001  [Etext #2488]
+Release Date: January 1, 2001  [Etext #2488]
+
+Language: English
 
 
 The Project Gutenberg Etext of 20000 Leagues Under the Seas by Jules
