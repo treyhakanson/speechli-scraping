@@ -17,6 +17,11 @@ class Crawlable:
         self._soup = BeautifulSoup(html, features="html.parser")
         self.available = True
 
+    def dump(self):
+        assert self.available, "Cannot parse crawlable before retrieval"
+        data = self._soup.get_text()
+        return data
+
     def parse(self, selector):
         """Run a selector against the retrieved data."""
         assert self.available, "Cannot parse crawlable before retrieval"

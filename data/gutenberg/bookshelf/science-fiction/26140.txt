@@ -1,0 +1,821 @@
+The Project Gutenberg EBook of Security, by Ernest M. Kenyon
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Security
+
+Author: Ernest M. Kenyon
+
+Release Date: July 28, 2008 [EBook #26140]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SECURITY ***
+
+
+
+
+Produced by Greg Weeks, Alexander Bauer and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+                        [Illustration]
+
+                           SECURITY
+
+    _If you let a man learn, and study, and work--and clamp
+    a lid on so that nothing he takes into his mind can be
+    let out--one way or another he'll blow a safety valve!_
+
+                      BY ERNEST M. KENYON
+
+                     Illustrated by Freas
+
+
+Suddenly Collins snapped the pencil between his fingers and hurled the
+pieces across the lab, where they clattered, rolled from the bench to
+the floor, and were still. For a moment he sat leaning against the desk,
+his hands trembling. He wasn't sure just when the last straw had been
+added, but he was sure that he had had enough. The restrictions, red
+tape, security measures of these government laboratories seemed to
+close in on his mind in boiling, chaotic waves of frustration. What
+was the good of his work, all this great installation, all the gleaming
+expensive equipment in the lab around him? He was alone. None of them
+seemed to share his problem, the unctuous, always correct Gordon, the
+easy-mannered, unbearable Mason, all of them gave him a feeling of
+actual physical sickness.
+
+Gardner's "Nucleonics and Nuclear Problems" lay open on the desk before
+him, but he looked instead beyond through the clear curving glass windows
+toward the sweep of green hills and darkening sky and the shadows of the
+lower forests that gave Fair Oaks its name. Beside him unfinished lay the
+summaries of the day's experiments, and the unorganized, hurriedly jotted
+notes for tomorrow's work. The old intellectual alertness was gone.
+Delight in changing theory, in careful experimentation no longer sprang
+from his work and were a part of it. There was a dull, indefinable aching
+in his head and a dry, dissatisfied sensation in his mouth.
+
+Along the ordered walks below his laboratory windows workers and
+technicians streamed toward the gates, checking out for the day through
+the usual mass of red tape, passes, and Geiger tests. Lights were
+flicking on in the long East Wing Dormitory across the quadrangle, and
+the mess hall, where he had recently eaten a tasteless supper, was
+lighted.
+
+Shortly after restrictions had really begun to tighten up last fall,
+he had written to a worker who had published making a minor correction
+in his calculations and adding some suggestions arising from his own
+research. A week later his letter was returned completely censored,
+stamped "Security-Violation." It was that evasive Gordon's fault. He
+knew it, but he couldn't prove it. Collins suspected that the man was
+not a top-notch researcher and so was in administration. Perhaps Gordon
+was jealous of his own work.
+
+Even the Journals were drying up. Endless innocuous papers recalculating
+the values of harmless constants and other such nonsense were all that
+was being published. They were hardly worth reading. Others were feeling
+the throttling effects of security measures, and isolated, lone
+researchers were slowing down, listless and anemic from the loss of
+the life blood of science, the free interchange of information.
+
+The present research job he was doing was coming slowly, but what
+difference did it make? It would never be published. Probably it would
+be filed with a Department of Defense code number as Research Report
+DDNE-42 dash-dash-dash. And there it would remain, top-secret, guarded,
+unread, useless. Somewhere in the desk drawers was the directive worded
+in the stiff military manner describing the procedures for clearing
+papers for publication. When he had first come here, he had tried that.
+
+"Well, good, Collins," Gordon, the Division Administrator, had said,
+"glad to check it over. Always happy when one of our men has something
+for publication. Gives the Division a good name. I'll let you know, but
+we have to be careful. Security you know."
+
+Somehow he had never heard. The first time he had made a pest of himself
+with Gordon who was polite, evasive, always plausible. Gordon,
+Gordon--it was becoming an obsession with him he knew, but the man
+appeared at every turn. He personified the system.
+
+In the past months his work had seemed to clog up in details and slow
+down. The early days of broad, rapid outlines and facile sketching in of
+details were gone. Now the endless indignities, invasion of personal
+rights and freedom, the hamstringing of his work, the feeling of being
+cut off from the main currents of his field, filled him with despair,
+anger, and frustration.
+
+                 *       *       *       *       *
+
+Suddenly he raised his head, slammed the notebook shut and switched off
+the desk lamp. Not tonight. Tomorrow would be time enough to write out
+this stuff. He needed a drink.
+
+The hall was dark as he locked the door to his lab except at the far end
+near the stairway where a patch of yellow light shone through an open
+doorway. Mason, he thought, Allan Mason, the one guy at Fair Oaks
+Nuclear Energy Laboratories who was always so damnedly cheerful, who
+didn't seem to mind the security restrictions, and who was seen so often
+with Gordon. As he walked rapidly past the open doorway, he caught a
+flashing impression from the corner of his eye of Mason's tall figure
+bent over his bench, his long legs wrapped around a lab stool, the
+perpetual unlit pipe hanging from the corner of his mouth. Then as he
+swung quickly toward the stairs, he heard Mason's cheerful hail.
+
+"Hi, Milt, hold up a sec."
+
+Reluctantly he paused at the head of the stairs scowling momentarily,
+and then slowly turning and retraced his steps.
+
+The lab was brightly lighted, and Mason stretched and smiled pleasantly.
+
+"Come in, old man, I'm about ready to knock off for the evening. How
+goes it?"
+
+Collins mumbled an O.K. trying to keep the irritation out of his voice,
+and Mason went on.
+
+"Just finishing up some loose ends so I can get off to the Society
+meeting on Monday. You going?"
+
+Shaking his head Collins felt his dislike for this man growing. The
+annual meeting of the North American Society of Theoretical Physicists.
+He didn't even give it any thought any more. Maybe he could go, but it
+didn't seem worth the effort. In the past he had tried to go to the
+meetings, but somehow work, rush work, some change of emphasis had come
+up on the project, and he had had to cancel his plans. He'd finally
+given up, but with Mason these things seemed to come easily, and he
+wondered why--
+
+"That's too bad"--his voice droned pleasantly on, and Collins' eye
+caught several botany texts in the book rack above Mason's desk. So, he
+had time to read stuff outside of his field. His work was going well.
+He had time for meetings and was allowed to go to them--the anger rose
+slowly like a swelling bubble from the hard core of his stomach. Then he
+realized that Mason had stopped talking and was looking at him.
+
+"Milt, you look glum tonight. Is there-- Why not have supper with me,
+and we'll take in the movie in the lounge?"
+
+"I've eaten already." Collins was on his feet. He forced a, "Thanks
+anyway. See you tomorrow. I'm--" and he was gone.
+
+As he strode angerly across the quadrangle Mason's words and cheerful
+attitude rankled in his mind. The gravel of the walk spurted from under
+his shoes, and the night air was clear and cool. It was good at least to
+feel something other than despair again, even anger.
+
+But once in his study with its attached bedroom and bath that made up
+his living quarters, he sank to the couch near his desk, all of the
+fight gone. He needed a drink. Today all the irritations, tensions, and
+suspicions of the past months seemed to close in on him. His work was
+going badly. Perhaps seeing Mason had brought it to a head. The fifth of
+bourbon in the bottom desk drawer was partly gone from the party last
+month. He took a swallow neat, and the fire of the liquid burned and
+clawed its way down his throat and spread with blossoming warmth in his
+stomach.
+
+Kicking off his shoes and loosening his tie he leaned back with the
+bottle on the floor beside him.
+
+Later in the evening when the early clarity of thought had left him and
+his mind moved disjointedly in and out of seemingly brilliant, emotional
+solutions to his problem, he knew he must have a showdown. Lying back on
+the couch he drifted into sleep determined to have it out with Gordon in
+the morning--resign if necessary.
+
+                 *       *       *       *       *
+
+The momentary pause of lighting his cigarette gave Collins a chance
+to decide where to start, as he sat across from Gordon. The Division
+Administrator was older with a heavy-jowled, close shaven face, and he
+waited patiently for Collins to speak.
+
+"Dr. Gordon, I am having a great deal of difficulty in making an
+adjustment both in my work and in my personal relations here at Fair
+Oaks, and last night I realized that I would have to talk to you about
+it."
+
+Gordon's face changed slightly, his eyebrows rising almost
+imperceptibly.
+
+"So, what ... how do you mean, Milt?"
+
+Use of the first name--the familiar approach thought
+Collins--administrative technique number blank blank dash blank.
+
+"Dr. Gordon, these security measures we are under, the difficulty of
+publishing, of getting to scientific meetings, the problem of getting
+furloughs, lack of knowledge of what is going on in my own field, it's
+just a little too much. It's personally irritating, but it greatly
+hampers my work as well. Frankly, I'm against the entire security
+program as it now stands. If it isn't stopped research will ... well,
+simply be impossible. Free interchange of information is essential to--"
+His fingers were gripping the arms of his chair.
+
+"Yes, of course, Milt, but corny as it sounds there is a war on you
+know. Oh, not a war with military weapons--yet, but a cold war of
+science and engineering, a struggle for supremacy in many fields of
+knowledge. If information of our work leaks out, gets to the enemy, we
+might as well not do that work. We can't be too careful."
+
+"I agree, but it goes too far." He leaned forward. "My private mail is
+read, and on my last furlough I am certain I was watched from the time I
+left the gates out there until I returned, and I don't like it. I can't
+prove it, but-- That's getting to the point that life's not worth
+while."
+
+"Come now, Milt, don't you think you're taking this a little too
+seriously? You're getting stale, overwrought. You need a fresh point of
+view. Lots of our people feel as you do at one time or another, but most
+of us learn to live with these necessary regulations, and do our work in
+spite of them. Let me make a suggestion, relax, take a little time off,
+develop a hobby. Why not do some reading in a field of science other
+than your own. It's good for you. Several of the people here are doing
+it. I do it, Carter, even Mason for instance--"
+
+Collins could feel the anger rising in him again.
+
+"Look, Gordon, I'm not going to mince words. I'm sick and tired of
+this mess, and you might as well know it. You can have all your damn
+relaxations and hobbies, or what have you. I want to do my work, and
+if I can't do it here, I'm going somewhere where I can do it. In plain
+English unless we can have an understanding right now--I resign."
+
+It had come out, and Collins was breathing hard, but Gordon's expression
+hardly changed as he looked over the tips of his joined fingers, while
+the younger man stopped and crushed out his cigarette viciously in the
+ash disposer on the arm of his chair. Gordon doodled on a small pad for
+a moment, his eyes not meeting Collins'. Then he spoke slowly.
+
+"I'm sorry you feel that way, Milt. I ... I'm afraid I cannot accept
+your resignation. You see," he said softly, "none of us can leave Fair
+Oaks--now."
+
+Collins looked up, amazement and incredulity written on his face.
+
+"What do you mean--can't leave? I can leave any time--"
+
+Gordon slowly shook his head almost sadly. "No, only assistants,
+technicians, maintenance people, and they are carefully watched or
+restricted to this area. People like yourself, like me, we have
+information, knowledge which cannot be let out of government hands at
+this time. We're here probably for the 'duration'; maybe longer."
+
+"But--this is barbarous. I--" the words clogged, jumbled as he tried to
+get them out. His emotions ran from anger, to amazement, to indignation,
+followed by a trickle of fear, and as he stared at Gordon, the fear
+grew. He could scarcely hear Gordon's words--
+
+"Take my advice--relax--and forget your fears--accept the restrictions
+and go ahead--read in some other field--come in again when you've
+thought it out." He was scarcely aware when Gordon slipped a bound
+journal volume into his hands and walked with him to the door--and
+closed it behind him.
+
+                 *       *       *       *       *
+
+Collins left Gordon's office in Administration moving slowly, one arm
+hanging loosely by his side, the other clutching the book. The corridor
+stretched ahead into B Wing with its laboratories flooded with the glow
+of mid-morning sunshine, bright and unreal. His mind was dazed, his
+thinking processes stopped in a kind of stunned unbelief. He could not
+even quit now. An undercurrent of fear ran close to the surface of his
+confused mind. It was the end of science, the end of all his work. All
+of the stifling, strangling restrictions of security on his work, on
+his private life, came whirling back as a monstrous, formless threat,
+something unspeakably big and powerful and unbeatable against which he
+could not fight.
+
+To his right as he moved slowly down the hall the double doors of the
+main library reading room were open with the stacks and study cubicles
+beyond, silent and restful. He paused and then entered crossing into the
+maze of the stacks through a grilled iron doorway. The important thing
+now was not to meet anyone, not to have to speak or smile or think. It
+was very important now to be alone and quiet.
+
+He walked until he found an empty cubicle, the endless walls of books,
+repositories of knowledge, silent and reproachful around him. Knowledge
+and books such as these would soon be added to no longer. He slumped
+into the chair and gazed at the tiny reading desk with its softly
+glowing lamp and the small stack of volumes on the rack left by previous
+users. Absently he stared for a long time at the volume Gordon had given
+him as if seeing it for the first time. Then with a deliberate effort he
+opened it and thumbed through slowly only half seeing its pages. _The
+Journal of Botanical Research._
+
+The pages in the _Journal_ were like a look through an open window.
+Outside of classified projects in "harmless" fields of research the work
+of science went on, papers were published, reputations were made,
+freedom still existed. He remembered Gordon's sleek smile and advice
+to relax and read in other fields. This stupid useless advice still
+rankled. Of course, he probably was stale, but to read junk like this!
+
+Silently and in his mind, he cursed the day he had studied physics,
+better archeology or zoology, anything. Suddenly he stopped riffling the
+pages and leaned forward, rapidly turning back to something that had
+caught his eye. It was a three and one-half page paper on "The
+Statistical Probability of Chromosome Crossover" written in neat
+sections with several charts and references. It was by M. Mason.
+
+Something clicked in Collins' mind--read the journals--Mason's unconcern
+with security, the botany books on his desk the night before. It didn't
+make sense, but it added up to something. Mason knew something and so
+did Gordon. He half rose. He had to get to the bottom of it. Clutching
+the bound _Journal_ Collins turned and weaved through the stacks and out
+of the library waving the protesting librarian aside and strode down the
+corridor toward the laboratories.
+
+                 *       *       *       *       *
+
+The door to Mason's lab was partially open, and he looked up quizzically
+from taking an instrument reading as Collins burst in.
+
+"Mason, I--" he planked the bound volume of the _Botanical Journal_ on
+the lab bench beside the instrument ignoring Mason's wince as the
+instrument needle quivered with the jar. "Did you write this?" His
+finger jabbed at the open page.
+
+Mason glanced at Collins, removed a pair of glasses from his white lab
+coat pocket, and putting them on leaned forward and studied the page for
+a moment.
+
+"Yes. Not bad either though I shouldn't say it. I didn't know you were
+interested in Botany." His voice was casual with a slight questioning
+note.
+
+Collins suddenly felt ridiculous. What was he accusing the man of? Mason
+had a right to publish on anything he wanted to, still a muddled series
+of half facts, incidents and suspicions chased through his mind.
+
+Mason walked over to his desk and filling his pipe sat down thoughtfully
+and leaned back motioning Collins into a nearby chair.
+
+"I think I know what is on your mind, Milt. Maybe I can straighten this
+out. Gordon told me a little while ago that you wanted to resign."
+
+Collins stiffened. So, these two were working together.
+
+"Milt, did you ever stop to think how lucky we are? Where can you get
+better equipment, help, coöperation in the country than here?" Collins
+leaned forward to speak, but Mason went on. "Oh, I know all the problems
+of security and how it strangles work." He paused for a moment as though
+trying to grasp the right words.
+
+"Look, Milt, what's the basic problem? Why do security measures strangle
+research? Isn't it a matter basically of a breakdown in the interchange
+of ideas? Sure, and it has come about because there has been no method
+of communication which would not get to and be used by our enemies. So,
+like yourself, I'm forbidden to publish the results of my work here in
+the journals. Why? Because those results are in my field of study, chain
+reactions.
+
+"I'm frustrated just as you have been and science suffers. What do I do?
+I write articles in a field that isn't restricted, botany. It's a new
+field of interest to me, a hobby if you like. The stuff is published and
+gets wide distribution. Every decent library in the country gets it.
+Every scientist all over the country can read the papers if he cares to.
+Then the word gets around, by the scientific grapevine, with a little
+judicious ear-bending. I get a reputation--in Botany.
+
+"Now the botanists know that I am not a botanist. They understand what
+I am doing. The word spreads, and they leave my stuff alone. The
+physicists in my specialty know my name, and they get the word, and
+pretty soon they are glancing over certain botany journals apparently
+for relaxation. They read my papers. It's slow, but it works." Mason
+leaned forward and struck a large stick match under the lab bench top.
+Drawing several puffs through his pipe his eyes were on Collins'
+confused face. Then he laid the pipe down.
+
+"The enemy botanists may read the botany journals, sure, but the enemy
+physicists don't. Their totalitarian training has made them inflexible
+in their thinking, besides they have their hands full trying to keep up
+in their own fields. The curse of specialization is a blessing to us.
+When the enemy botanists read it, it makes sense, but it doesn't help
+them much in their work--more or less innocuous." He waved toward the
+botany texts on his desk. "It took me six months to learn enough about
+it to do the job." As he spoke Mason untangled his legs and brought the
+open journal over to his desk.
+
+"All right, notice in my article I am writing on chromosomes--chains of
+genes, and my field is--?"
+
+"Chain reactions," Collins finished softly, "but--"
+
+"The article itself is well disguised, but it's a parable. It's botany
+on the surface, but it gets over enough chain-reaction theory to be good
+physics, if you read it right. You see botany is what you might call my
+code field."
+
+The bright light of noon shimmered on the white buildings and green
+lawns beyond the lab windows. Collins was silent and thoughtful.
+
+"Well, that's about all. Gordon knows. He's in with us, but the
+Government doesn't suspect--yet. Oh, they may catch on to us. Information
+may leak out to the enemy. There's some chance, but when we're caught
+we'll think of something else. Most of us believe it's worth the chance.
+There's a risk in anything."
+
+Suddenly all the pieces fell into place, and Collins' anger and confusion
+melted away. In its place was a sense of relief and hope, hope for the
+future. It wasn't the final answer, but it was a way to keep going. He
+was not alone any longer. He had friends who understood, who had been
+through what he had been through. It was a good feeling. He heard
+Mason's voice again.
+
+"Milt, why don't you do some library work? Botany's my code field. I
+don't know what yours is, but you've got some catching up to do. There
+may be some interesting stuff published already in your code field."
+
+Collins did, and he developed his new interest enthusiastically. Gordon
+had been right. He had been getting stale. Besides, astronomy was a
+fascinating field, and suns with their revolving planets in some
+respects are very like atomic systems, if you look at it that way.
+
+                             THE END
+
+
+
+   Transcriber's Note:
+
+   This e-text was produced from Astounding Science Fiction
+   October 1955. Extensive research did not uncover any evidence
+   that the U.S. copyright on this publication was renewed.
+
+
+
+
+
+End of the Project Gutenberg EBook of Security, by Ernest M. Kenyon
+
+*** END OF THIS PROJECT GUTENBERG EBOOK SECURITY ***
+
+***** This file should be named 26140-8.txt or 26140-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/6/1/4/26140/
+
+Produced by Greg Weeks, Alexander Bauer and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

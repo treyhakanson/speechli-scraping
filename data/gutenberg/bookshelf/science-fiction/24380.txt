@@ -1,0 +1,1457 @@
+The Project Gutenberg EBook of Shock Absorber, by E.G. von Wald
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Shock Absorber
+
+Author: E.G. von Wald
+
+Release Date: January 21, 2008 [EBook #24380]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK SHOCK ABSORBER ***
+
+
+
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+                              SHOCK ABSORBER
+
+                             BY E. G. VON WALD
+
+                         Illustrated by van Dongen
+
+[Transcriber's Note: This etext was produced from Astounding Science
+Fiction June 1955. Extensive research did not uncover any evidence that
+the U.S. copyright on this publication was renewed.]
+
+
+     _A man acts on what he believes the facts are, not on the facts. He
+     lives or dies by what the facts are. Now sometimes you don't have
+     time to correct a man's beliefs, yet he must act correctly...._
+
+
+The aging little psychologist looked down at the captain's insignia on
+his sleeve and scowled.
+
+"I know it's a lousy, fouled-up situation, commander," he said with
+evident irony. "You speak of discipline. Well, it's bad enough here on
+Mars, where a junior officer like you feels free to argue with a full
+captain like me, but out there with the fleet, discipline is now
+virtually nonexistent."
+
+He looked up again and quickly added, "Oh, of course there is a
+discipline of a sort, and in its own way it is quite effective. Strict,
+too, as you will find. But it has few of the marks of the military
+academy, of which the regular officers were so fond. Perhaps that was
+the reason why they let the situation get away from them, and why we are
+in charge of it now."
+
+"I still think--" the commander started, but he was interrupted again.
+
+"I know what you think, commander. You can forget it. It's wishful
+thinking and we cannot permit such daydreaming in our precarious
+condition. Face the facts as they exist in the present. After we kick
+the aliens out of our solar system, maybe we can go back to the old
+ideas again. Maybe. I'm not even very sure of that. But as for now, the
+characteristic of despair is the lowest common denominator among the
+combat patrols, and we therefore have mutinies, disobedience of orders,
+defections of every variety. That is a real situation, and it will
+persist until we can induce the men to accept tactical leadership that
+can cope with the enemy.
+
+"Actually, it is not very remarkable that this situation developed.
+Strategy is still a rational computable quantity, but the actual tactics
+of fighting is something else entirely. The aliens have an intellectual
+response that is in full truth alien to us. It simply cannot be
+comprehended rationally by a human being, although they manage to guess
+pretty well the responses of our own fighters. Naturally, the result has
+been that in the past our losses were almost ninety per cent whenever a
+patrol actually engaged in a firefight with the enemy.
+
+"Fortunately, the aliens are much too far from their home to possess
+anything like the number of personnel and other resources that we have.
+Otherwise, they would have beaten us long ago. Completely wiped us out.
+And all because an ordinary, intelligent human being cannot learn any
+patterns by which the aliens operate, and by which he can fight them
+successfully."
+
+"I know that," the commander muttered. "I spent plenty of time out there
+before I got tapped for this new branch of service." He rubbed the moist
+palms of his hands together nervously.
+
+"Certainly you did," the captain acknowledged absently. Then he
+continued his explanation. "Fortunately, there was a small body of
+information on extra-rational mental faculties that had been developed
+over the past century, and as soon as we expanded it sufficiently, we
+were able to form this new branch of service you now belong to. But
+unfortunately, some idiot in the Information Service released a
+popularization of the data on the new branch. That was ill-advised. The
+veterans who had survived so far had their own way of accounting for
+their survival, and that did not include what that silly description
+alluded to as 'blind guessing' by commanders of 'exceptional psychic
+gifts.'
+
+"Like most popularizations, the description was grossly inaccurate, and
+was promptly withdrawn; but the damage had already been done. The damage
+was completed by another idiot who named the new branch the Psi Corps,
+merely because the basic capacity for extra-rational mental faculties is
+technically signified by the Greek letter 'psi.' The name was slightly
+mispronounced by the men, and that automatically produced that nasty
+little nickname, which has stuck, and which expresses very well the
+attitude of the men toward the new service.
+
+"As I say, fleet discipline is very bad, and the men simply would not
+accept orders from such officers. There are numerous cases on record
+where they killed them when there was no other way out.
+
+"Now, as far as discipline itself is concerned, the best procedure would
+be to pull an entire fleet out of the defense perimeter and retrain
+them, because the newly trained recruits can be made to accept Psi Corps
+officers as commanders. But our situation is far too desperate to permit
+anything like that. Therefore, we must use whatever devices we can think
+of to do the job.
+
+"The ship you are going to is staffed by veterans. They were incredibly
+lucky. From the outset, they had a CO who was a man highly gifted in psi
+without he or anyone else knowing about it until a few months ago when
+we ran a quiet little survey. But he got killed in a recent encounter,
+along with their executive officer, so we are now sending them a new
+captain and a new exec as well. But those men simply will not accept
+orders from a Psi Corps officer. Furthermore, they have heard the
+rumors--soundly based--that the Psi Corps, as a result of its
+opposition, has gone underground, so to speak. They know that its
+personnel has been largely disguised by giving them special commissions
+in the regular Space Combat Service. As a result, they will most
+certainly suspect any new commanding officer no matter what insignia he
+wears.
+
+"Of course, now and then you will find one of the old hands who will
+accept the Psi Corps, so long as it isn't jammed down his throat. Just
+pray that you have somebody like that aboard your new ship, although I
+must admit, it isn't very likely."
+
+       *       *       *       *       *
+
+"All right, all right," the commander growled with irritation.
+"But--with your permission, sir--I still think my particular method of
+assignment is a lousy approach and I don't like it. I still think it
+will make for very bad discipline."
+
+"Whether you like it or not, commander, that is the way it will have to
+be accomplished. We are simply recognizing a real situation for what it
+is, and compromising with it."
+
+"But couldn't this change in command personnel be postponed until--"
+
+"If it could be postponed," the captain replied acidly, "you may rest
+assured we would not be employing disagreeable--and somewhat
+questionable--devices to speed it up. Unfortunately, our outlying
+detectors have identified the approach of a fleet of starships. They can
+only be reinforcements for the aliens, about equal to what they already
+have here, and they will arrive in two years. If those two forces can
+join each other, there will be no need to worry further about discipline
+among the humans. There will shortly be no humans left. So we are
+preparing a full-scale assault against those aliens now within our
+system in the very near future. And we simply must have all tactical
+combat devices commanded by men with extra-rational mental abilities in
+order to deal with them effectively."
+
+"Effectively?" the commander snorted. "Thirty-two per cent effective,
+according to the figures they gave us in the Psi school."
+
+"That is considerably better than twelve per cent, which is the
+statistical likelihood of survival in combat without it," the captain
+retorted.
+
+Nervously, the commander scratched the back of his thin neck, grimmaced
+and nodded.
+
+"The first and most important problem for you is to gain the confidence
+of your crew. They will be worse than useless to you without it, and it
+will be a very difficult job, even with all the advice and help our men
+can give you. And you will have to be careful--don't forget what I said
+about assassinations. The way we are going about it, that you find so
+disagreeable, should minimize that danger, but you can't ever tell what
+will happen."
+
+He held up his hand to forestall a comment from the other and continued
+on. "There are conditions for everything, commander. Men react according
+to certain patterns, given the proper circumstances. It is
+characteristic of the sort of men you will encounter on your new ship
+that they are unlikely to take the initiative in such matters, partly
+from their early training and partly from their association with a CO
+who pretty well dominated them. However, they will readily condone it if
+somebody else does take the initiative in their behalf. Particularly, if
+that man has some official authority over them, and there is always
+somebody like that. They will not only condone the action, they will
+positively be happy about it, because it will tend to bolster their
+sense of security--such as it is. You know the sort of thing--father
+hunger. Somebody to take care of them the way their old CO did."
+
+The captain sighed. "So you see, commander, you are going into a
+double-edged situation. Everything in it that can accrue to your
+advantage, could also get you promptly killed."
+
+"I see. First I fight with my men," the commander said bitterly. "And if
+I win that battle, I will be permitted to fight the aliens with a
+thirty-two per cent possibility of living through the first encounter of
+that."
+
+"It's always been that way to some extent," the captain replied
+sympathetically, "in every command situation since the world began. Only
+right now is a little worse than anyone can remember."
+
+       *       *       *       *       *
+
+The commander departed. But about a month later, ensuing circumstances
+brought one Lieutenant Maise to the same office building. He was not, of
+course, ushered into the august presence of the captain, who was seeing
+more important people than lieutenants that day.
+
+Maise had been there for several hours every day for the previous three,
+and he went immediately to the desk of the Special Reports Officer. The
+SR Officer was a lieutenant also, a combination of psychologist and
+writer, whose business it was to make sure that Special Reports on
+morale matters were presented in the properly dramatic fashion so that
+that indefinable aura of reality, customarily omitted from official
+historical documents, could be included. The Evaluation Division, back
+on Earth, was very fussy about that "aura."
+
+"Ah, good afternoon sir," the SR Officer greeted him. "Glad to see you
+again."
+
+Maise nodded curtly and took a seat beside the desk.
+
+"I think we are pretty well finished now--"
+
+"We better be," Maise interrupted. "My ship is pulling out in four
+hours."
+
+"Right on the button, eh?" said the SR Officer. He fumbled in a desk
+drawer and withdrew a bulky folder, from which he extracted a smaller
+manuscript, and handed it to Maise. "I think you will find it complete
+and suitably expressive, now, sir."
+
+Maise scowled as he accepted the document. "It makes no difference to
+me. I didn't want to get involved with the report in the first place."
+
+"I know," the SR Officer nodded agreeably. "But don't worry. Nobody is
+going to prefer any charges against anybody in any case. What they want
+back on Earth is all the information they can get on morale problems, so
+that they can more effectively implement their planning. You know how it
+is."
+
+"How would _I_ know?"
+
+The SR Officer snapped, "I can understand your sentiments, but don't
+blame me. Remember, I'm just a lieutenant, and I just work here in
+Morale."
+
+"Sure," Maise said, cracking a grin on his stiff lips. "Sorry. I know it
+isn't your fault."
+
+He opened the report, and commenced reading.
+
+       *       *       *       *       *
+
+TITLE:
+
+     SPECIAL CONFIDENTIAL PSYCHOLOGICAL REPORT, prepared in
+     collaboration with Lieutenant E. G. von Wald, Special Reports
+     Officer, Mars XLV Base.
+
+TO:
+
+     COMMANDING OFFICER
+     Psychological Study and Evaluation District
+     Central Command Authority
+     Unified Human Defense Forces
+
+FROM:
+
+     LIEUTENANT ALTON A. B. MAISE
+     Executive Officer
+     Space Combat Device LMB-43534
+     Seventh Space Fleet
+
+SUBJECT:
+
+     ATTEMPTED BACTERIOLOGICAL POISONING OF COMMANDER THOMAS L. FRENDON,
+     recently assigned captain of above-mentioned Combat Device. As per
+     Special Order PSIC334349, dated 23 July 2013.
+
+On 17 October 2015, Space Combat Device LMB-43534 was detached from the
+Seventh Fleet and returned to the Martian XLV Docks for general
+overhauling and refitting with new equipment. This period extended for
+two months, and was followed by a seven-day course of rechecking by the
+crew.
+
+I was assigned to the ship as Executive Officer on 21 November following
+detachment, and was in command of the ship during most of the
+above-mentioned operations. The men were extremely hostile toward me,
+owing to their fear that I was a Psi Corps officer acting under a
+special commission in the SCS, but no overt signs of mutiny took place,
+perhaps because we were still in port. Needless to say, I was very glad
+when the message arrived informing us of the assignment of Commander
+Frendon as captain, inasmuch as the situation made clearly evident that
+I could not expect to be able to assume tactical command of the ship
+myself when it was returned to combat, the attitude of the crew being
+what it was.
+
+Almost immediately upon receipt of the message, some of the animosity
+toward me lifted, but hardly enough for me to consider myself accepted
+as a member of the crew, although there was a good deal more work done
+after that.
+
+       *       *       *       *       *
+
+Six days before our scheduled departure date, Commander Frendon arrived.
+I was in the control cabin with Lieutenant Spender, Third Officer, when
+Lieutenant Harding, the Astrogator entered. He limped around the little
+room a couple of times and then slumped dejectedly into a chair. "Well,"
+he said, "we've had it, boys."
+
+Spender looked around at him quickly, saying, "What's that?"
+
+"I said we've had it. I just saw the new CO, walking over from the
+Operations office."
+
+"What about it?" I asked sharply.
+
+Harding shook his heavy, balding head, staring at the floor. "It's
+written all over him," he said bitterly.
+
+"No!" muttered Spender.
+
+"Yep," Harding growled. "Just wait until you lay eyes on him."
+
+He stood up and faced me, his expression bleak and cold. "A sickman, Mr.
+Exec," he snarled. "Just as sure as death."
+
+As previously noted, discipline was very lax, but I had been trying to
+restore it as much as possible. So I said, "I don't know whether the
+new CO is a member of the Psi Corps or not, Harding, but cut out this
+nickname of 'sick.'"
+
+Harding mumbled: "That's what everybody calls them. I didn't invent the
+name. But I think it is plenty appropriate."
+
+"Well cut it out."
+
+Harding glared at me. "I suppose you're glad to have one of the
+guess-kids running this ship."
+
+"Nobody wants to be involved in any guessing games, but we're not
+running the war here, so stow it."
+
+Spender broke in then with his customary cold, quiet speech. "A sickman,
+eh? Then we have approximately one chance in three of living through our
+first encounter with the enemy when we leave here. That is according to
+the statistics, I believe. But to the best of my recollection, our
+previous captain brought us through eighty-eight skirmishes before
+anyone got hurt." He shook his head and thoughtfully contemplated the
+big, raw knuckles of his hand.
+
+As is perfectly obvious from the above, the situation was ill-suited for
+a new officer to take command of the ship. I would have liked to settle
+the matter a little more before he got there, but there was nothing I
+could do about it then. Besides, it wasn't my worry any more, I realized
+gratefully. The problem of loyalty and confidence was now the business
+of the new CO. I did not envy him his job, but it had to be done.
+
+       *       *       *       *       *
+
+At the very first glance, you could see what Harding had been talking
+about. Commander Frendon was the absolute epitome of every popular
+physiological cliché associated with people of unusual psi endowment for
+the past century that it has been known. At least ten years younger than
+any of the rest of us, he was of medium height, extremely skinny and
+nervous, his eyes glancing about with a restless uncertainty. It seemed
+almost too obvious on him, I thought, and wondered who had been
+responsible for assigning him to anything at all in the armed forces.
+
+He grinned slightly at us when he came in, dearly unsure of himself, and
+made a valiant but artificial-sounding effort. "Hello men," he said. "My
+name is Frendon. I'm the new CO."
+
+"Yeah," muttered Harding, "we see that you are."
+
+"What's that lieutenant?" Frendon's voice was suddenly sharp, and the
+wavering grin had vanished.
+
+"I said, yes sir," Harding replied sullenly. "Welcome aboard."
+
+Frendon nodded curtly, and glanced around at the rest of us, at no time
+looking anyone directly in the eyes. I stood up and held out my hand.
+"Maise, here," I said. "Your Exec." And naturally I added the
+traditional welcome.
+
+Spender introduced himself, and as he was speaking, the remaining crew
+man walked in to find out what was up. He took one look at Frendon,
+understood, and turned to leave again.
+
+"And the man in the lead-lined tunic is Lieutenant Korsakov," I said
+quickly. "He's your engineer."
+
+Korsakov sullenly said hello and waited. And Frendon also waited, all
+the time standing stiff and sensitive. One got the impression that he
+was in a nervous agony, but unable to help himself or to receive help
+from anybody else. When the introductions were long since completed,
+Frendon still stood uncertainly, and an unpleasant silence developed.
+
+"Sit down, captain," I suggested. "How about some coffee?"
+
+Frendon nodded and jerkily moved to the seat I had vacated. The eyes of
+the other men followed him, studying his uniform. Although it was clear
+by now that he was wearing the ordinary insignia of the SCS, nobody was
+particularly reassured, because we had all heard of the new arrangement
+under which the Psi Corps operated.
+
+So Frendon sat. The silence continued. Everybody stared at him, and he
+looked helplessly around. I worked up what I felt was a friendly grin,
+and his gaze finally found itself on me and stayed there, almost
+pleading.
+
+"You'll have to forgive us, captain," I told him. "We're an old bunch of
+mangy veterans, and it's going to be a little strange for a while having
+a bright new captain."
+
+"Certainly," Frendon said, his voice hardly above a whisper. "I
+understand." He hesitated and then added in a quick defensive rush of
+words, "But, of course, you must understand that this isn't the first
+ship I've commanded, and I've been in combat before too, and so I don't
+see why I should be so doggone strange."
+
+That's what he said. Doggone.
+
+"Well," I murmured and cleared my throat. "Of course, captain."
+
+       *       *       *       *       *
+
+Harding broke off his steady, hostile glare, and fumbled in his pocket
+for a cigarette.
+
+"Captain," he started, a little uncertainly, which was unusual for
+Harding, "can I ask you a frank question?"
+
+"Huh?" Frendon looked at the Astrogator blankly. "Why ... why, er,
+certainly, lieutenant. Harding you say your name is? Certainly, Harding,
+go right ahead."
+
+Lieutenant Harding carefully lighted his cigarette. Then he said,
+"Captain, will you tell us whether or not you are a sickman--I mean a
+Psi Corps officer?"
+
+"Why?" Frendon leaned forward tensely, then relaxed self-consciously.
+"Why do you ask that, Harding? Aren't you familiar with the insignia of
+your own branch of service?"
+
+"Yes, sir," Harding replied blandly, "but there have been a number of
+reports that they were going to assign a sick ... I mean a Psi Corps
+officer to the command of all new Combat Devices, only they would be
+wearing SCS insignia. Since we have been outfitted fresh and all, we
+probably come under the heading of new Devices."
+
+"What if I were a Psi Corps officer?" Frendon demanded truculently, his
+long, skinny frame taut with excitement.
+
+Harding considered that question, or rather statement, and puffed
+thoughtfully on his cigarette. Finally he shrugged. He reached over and
+meticulously crushed out the cigarette in an ash tray.
+
+"For the benefit of you, lieutenant"--Frendon's bitter gaze swept the
+entire room--"and the rest of you, I am not now nor have I ever been a
+member of the Psi Corps. Does that satisfy you?"
+
+"Yes, sir," I said quickly. Nobody else said anything.
+
+Frendon stood up and stalked tensely to the door. There he spun around
+and said, "But there is a branch of the military service designated as
+the Psi Corps, and if you wish to discuss it in the future, kindly refer
+to it by its official title or abbreviation, and not by that atrocious
+nickname of 'sick.' I am sure the Central Command Authority knows what
+it is doing, and if they did intend to assign such personnel they must
+have very good reasons for it. Understand?"
+
+There was a general nodding of heads and a scattered, sullen, "Yes,
+sir."
+
+"Now then, you may call out the ship's company, Mr. Maise," Frendon said
+to me.
+
+"Well, captain," I replied, "we're all here." Then sure enough, Frendon
+made us all stand at attention while he read his orders to us, just like
+it says in the book at the academy. After which, happily, he went to his
+cabin, and let us go back to our work.
+
+       *       *       *       *       *
+
+That was the introduction of Commander Frendon to the crew. He made a
+distinct impression. Entirely bad. Veteran small-ship personnel in this
+war have shown themselves to be extremely clannish, at best, deriving
+their principal sense of security not from the strength of the fleet
+which they never see and rarely contact, but from their familiarity with
+and confidence in each other's capabilities. Now these men had a new CO
+who was not only a stranger, but one who they felt sure was a member of
+the feared and mistrusted Psi Corps, a sickman, a man whose battle
+tactics were reputedly nothing but a bunch of blind, wild guesses.
+Previously, I had been the unwanted and suspected stranger, so I knew
+how Frendon would feel.
+
+The situation developed rapidly, probably because we had only six days
+before our scheduled departure into the combat zone. That afternoon,
+Korsakov and Harding were supposed to be checking the wiring of
+fire-control circuits. Base mechanics had installed the gear and tested
+it, but it is standard operating procedure for the ship's crew to do
+their own checking afterwards, the quality of the work by electronics
+mechanics on planetary assignment being what it is these days.
+
+I found them sitting on the deck, engaged in a desultory, low-voiced
+conversation. They had stripped the conduit ducts of plating, but there
+was no sign that they had done anything further.
+
+"All right, you guys," I said. "Get up and finish that check. We may
+have to use those missiles one day soon, and I'd like to be sure they go
+where they are sent."
+
+Korsakov looked up at me, his broad, thick mouth spread in an unpleasant
+toothy grin and his bushy eyebrows raised. "What difference will it
+make, my friend?"
+
+"None," supplied Harding. Then he added, "As a matter of fact, it might
+even be better to leave them scrambled. If we strike an alien, our new
+captain is going to close his eyes and punch buttons at random,
+probably. Why shouldn't we leave the fire controls at random, too?"
+
+"They might," Korsakov said, still grinning inanely, "even cancel out
+his error."
+
+"Cut it out," I said. "You know better than that."
+
+"Maybe you do, Maise." Harding replied, "but we don't."
+
+My face must have telegraphed my mood, because he lurched to his feet
+and quickly added, "Now wait a minute, Maise. Don't get excited. You're
+not in command any more, so you don't have to stick to that authority
+line now. Oh sure, I know you're the Exec, but what the hell, Maise."
+
+I stared at him for a moment, then said quietly, "Come on Kors. On your
+feet, too. Get that work done."
+
+"Ha," said Korsakov, but he stood up.
+
+       *       *       *       *       *
+
+Harding moved closer to me. "Confidentially, Maise," he said, "what do
+you really think?"
+
+"About what?"
+
+"You know--Frendon."
+
+I shrugged. "What am I supposed to think?"
+
+"You know as well as I do that he's a sickman."
+
+"I told you not to use that nickname around me," I replied with
+annoyance. "Naturally you're going to mistrust them if you tie them up
+in your mind with a name like that."
+
+"Do you trust them?"
+
+I suddenly wasn't sure myself, so I evaded by saying, "Frendon told us
+he wasn't one, anyway."
+
+"Did you expect him to tell the truth?" Korsakov sneered. "After going
+to the trouble of getting an auxiliary commission in the SCS? He knows
+what we think."
+
+"Sickman," Harding repeated, watching me carefully. "And I'm plenty sick
+of having the brass hats handing us junk like that. It used to be that
+the worst we'd get would be fouled up equipment that we'd have to check
+and rewire ourselves, like these fire controls. Now they give us a
+fouled-up captain."
+
+"Look," I said. "I want you to cut that talk out, Harding. That's an
+order. And if you think I can't pour it on you guys, just try me once."
+
+Korsakov, who had been staring morosely into the wiring duct, turned
+around to face me. He had that nasty grin on his face again.
+
+The best thing I could think of to do at that moment was to pretend I
+assumed that they would obey and go on back to the control room. I knew
+they wouldn't pay much attention to the order, but the stand had to be
+taken. I was still pretty much a stranger myself, but I wasn't going to
+let them think they could sell me their friendship at the cost of the
+captain's authority.
+
+One thing I did accomplish, however, was the completion of the
+fire-control checkout. There was a lot of rewiring to do, but they had
+it finished in two hours, and everything was perfect.
+
+Frendon went off to the city that evening, and didn't show up the next
+day except for about an hour. Apparently, he had been talking to a
+Psychological Advice officer or somebody like that, and now proceeded to
+interview each of us in private, quite obviously trying to gain some
+kind of rapport with us. It didn't work. Even if it hadn't been so
+obviously what it was, it wouldn't have worked. The men couldn't stand
+simply having him around, and their conviction that he was a Psi Corps
+officer merely grew stronger.
+
+When he left for the day, it was a relief. You couldn't like the guy,
+but you couldn't help but feel sorry for him--at least, I couldn't.
+
+       *       *       *       *       *
+
+That evening, since we were still docked on Mars, I went to the Base
+service club for dinner. Sitting in a booth there I found the three of
+them--Harding, Spender and Korsakov. For the first time, they actually
+seemed happy to see me, and the usual animosity I had experienced from
+them had almost vanished. Of course, I knew what the reason was. They
+could now hate somebody else, and since I was in the same dismal
+situation that they were in, they generously permitted me to share their
+gloom.
+
+I ordered some good Earthside bourbon, and sat down with them. Harding
+had apparently been making a little speech, which I had interrupted, and
+which he now concluded to me.
+
+"So what do you think we can do?"
+
+"About what?" I said.
+
+"You know about what."
+
+I shrugged and reached for my drink off the servidore.
+
+"I know you don't like to talk about it, Maise," Harding said, "but we
+have to. Something has to be done."
+
+I started to say something, but he raised a hand and hurried on. "I
+know, I know," he growled, "command authority, dignity of rank and all
+that sort of nonsense and tradition. Sure, I'd like to see some of it,
+too. But this is a hopeless case, Maise. Frendon is a sickman. Or a Psi
+Corps man if you prefer. Undoubtedly they have some awfully clever
+fellows back on Earth to do our thinking for us, but as far as I am
+concerned, they might as well have sent us an idiot child to run the
+ship in combat. Don't you understand?"
+
+He was looking at me earnestly, the deep concern he felt plain on his
+face. I already knew that Harding could be depended upon to reflect the
+sentiments of the group, and to say exactly what he felt. It was a
+useful bit of knowledge.
+
+"I know what you mean, Harding," I said, "but--"
+
+"Well, think about it then, man," he interrupted sharply. "You're in the
+same ship, you know. When we blow up, you do, too. And it isn't just
+that we'll all be killed with this incompetent guess-kid in command--we
+probably would anyway, sooner or later. But it's the waste of a good
+ship. You know as well as I do that it stands to reason combat can't be
+run as a game of blind man's bluff. And that's just what Frendon will
+make it. If you're going to make proper use of your military potential
+it takes brains, like our old skipper had."
+
+"They say the Psi Corps training brings out the most sensitive
+intellectual capacities of a man," I replied, quoting from the old
+publicity releases on it and keeping my voice level and dispassionate.
+"The Central Command Authority believes that it will raise the
+possibility of survival from twelve to thirty-two per cent in actual
+combat."
+
+Korsakov giggled, belched, hiccupped and finished his drink. "Thirty-two
+per cent," he said. "That is one chance in three."
+
+"You don't understand," Harding insisted. "Maybe the guessing games and
+tests they run back on Earth do give the sickmen one chance in three of
+being right by blind guessing. I'm not talking about that. I'm talking
+about us--on our ship in combat and not in a laboratory back on Earth.
+We had a captain who ran the ship well, ran it in eighty-seven separate
+forays with the aliens and brought us back each time. He got killed
+himself on the eighty-eighth. That's the sort of captain we want, Maise.
+A man who can use his head and who can bring the ship through eighty-odd
+runs safely. And that is going to take something besides guesswork.
+Don't forget--if you like to believe in mathematical probability
+statistics--our chances should be getting slender after all our combat
+experience. Yours, too, for that matter."
+
+"Maybe," I hedged, "your previous captain was a Psi Corps man in
+disguise."
+
+"No, he wasn't," Spender cut in calmly. "I knew him for years. We went
+through the same service training and served together every minute of
+the war. And they didn't start this sick-business until three years or
+so ago."
+
+"Well, they say there are natural Psi men who don't need the training so
+much."
+
+"Fairy tales," snorted Harding. "That stuff doesn't go. I don't believe
+it."
+
+       *       *       *       *       *
+
+That was clear. And no argument would convince him otherwise, even if I
+had felt inclined to give him one, which I didn't.
+
+Korsakov, the silent Russian, thoughtfully rubbed his thick hands
+together, and then punched the button calling for another drink. "Once
+in three times," he said. "It's all been proved. Out of the next three
+missions we go out on, we come back only once." His homely face broke
+into a tired grin.
+
+I laughed with him, but Harding did not like the joke. "It isn't funny,"
+he growled. "If they can't find a decent captain to send us, why can't
+they move up one of us that has at least served with a good commander in
+combat, and maybe learned some of his tricks from him. Not that I would
+want the job. But it would be better than Frendon. Anything would."
+
+I raised my eyebrows at him skeptically. He got the idea and swore. "You
+know I didn't mean that I want the job, so don't go goggling your
+righteous eyes at me, Maise. I know my limitations, but I also know a
+good captain when I see one. And what do they send us? A kid who not
+only is a nut, but he's already so scared he--"
+
+"Once in three times," Korsakov said loudly. He was apparently getting
+pretty drunk. "Their computing machines would need an aspirin to handle
+that situation. We go out three times but we only come back once." He
+turned and peered intently at me, his heavy bushy eyebrows drawn
+severely down and wiggling. "Puzzle: complete the figure without
+retracing any lines or lifting the pencil from the paper. How do we
+manage to go out there the third time when we haven't yet come back from
+the second mission, huh?"
+
+"Shut up, Kors," Spender said without emotion. "You're getting a
+fixation."
+
+"I'm not the astrogator," Korsakov muttered, laying his head down on the
+table. "If you want a fix on our position, you will have to call on Mr.
+Harding."
+
+My bourbon was probably good, but I couldn't taste it. There was too
+much else to think about. I said, "Well, what are you going to do if he
+really is a Psi Corps man?"
+
+"That," Harding said thoughtfully, "is the question."
+
+"Maise, you're the Exec," Spender commented. "It's up to you to work us
+a replacement."
+
+"Didn't you see his orders?" I snapped. "They're dated from Central
+Command Authority itself. Even if I did know somebody here in Mars
+Command--which I don't--it wouldn't do any good."
+
+"He's right," Harding grumbled. "Everybody knows that once they've
+assigned a sickman, the only people who can get him reassigned are the
+sickmen themselves. Maise couldn't do anything about it unless he was a
+member of the Corps himself. But that settles it, though--his orders
+being from Central, I mean. Nobody but a sickman would have his orders
+cut at Central for a puny little ship like ours. It proves what we
+thought about him, anyway."
+
+"I don't think it proves anything," I retorted angrily. "I don't think
+the question is whether or not Frendon is a sick--now you've got me
+saying it--a Psi Corps man. The question is whether we're going to
+settle down and stop whining just because we got a new CO we don't like,
+and that we can't do anything about. We're not running this war. They're
+running it back on Earth."
+
+"We're fighting it," Spender commented, chewing on a big, raw knuckle.
+
+Harding looked at me skeptically. "How much space-combat have you seen,
+Maise?"
+
+"Six years, more or less," I told him. "I've seen plenty of the stuff.
+I'd just as soon let somebody else do it from now on in, but nobody
+asked me."
+
+Harding grunted: "Well, tell me, have you ever served under a sick
+skipper?"
+
+"No."
+
+"Do you want to?"
+
+"Why not? Besides--what can I do about it?"
+
+       *       *       *       *       *
+
+Harding leaned back and sipped away on the straight whiskey he was
+drinking, watching me over the top of the glass and talking directly
+into it, making his voice sound muffled and sinister. "You know, Maise,
+sometimes you make me tired. Frankly, when they first sent us you, I
+didn't like it. None of us did. You were CO then, and we thought maybe
+you were a sickman even if you didn't look like it, and you kept sort of
+sticking up for the sick corps whenever it was mentioned. Well, that's
+all right. New officer in charge, trying to stiffen up discipline, et
+cetera and so forth. But now we've got Frendon for CO. You're in the
+same boat as the rest of us, and you still keep insisting that the
+sickmen are O.K. But you're a liar and you know it."
+
+"Well, what do you want me to do?" I shouted angrily. "Poison the guy?"
+
+There was a sudden sharp hush. Even Korsakov lifted his head from the
+table, and looked around with bleary, bloodshot eyes. "Poison?" he said.
+Then, as if the effort of thinking was too much, he lay down again and
+muttered. "Once in three times. It's a puzzle question, men. Figure it
+out."
+
+"Of course, entirely aside from the present argument," Spender stated in
+his cold, emotionless voice, staring into his empty glass, "but I do
+seem to recall an incident like that. Seems there was a ship just about
+like ours. About three months ago. A mechanic told me about it. Seems
+they got a new CO assigned to it who was obviously a sickman, just like
+us. Somebody managed to sneak a few of the dormant spores lying around
+outside the dome into him. Then the sickman really was sick."
+
+I licked my lips. "I didn't mean that," I said. "Besides, they could
+always tell if you did anything like that."
+
+"How?" asked Spender.
+
+Harding was listening intently, watching both of us, but he didn't say
+anything.
+
+"They can identify the organisms," I pointed out.
+
+"Sure. Easy. But how do they know where he picked them up? They're
+laying all around outside the domes here on Mars ever since the first
+assault by the aliens twelve years ago. Nobody's had time to
+decontaminate this whole planet like they did Earth. Easiest thing in
+the world for a new officer on Mars to take a little sight-seeing
+excursion outside the domes and to be a little careless."
+
+"There would be an epidemic if he brought back a lot of spores," I
+suggested. "Besides, it's out of bounds to leave the dome."
+
+Spender shook his head. "You can get around that out-of-bounds business
+without any trouble," he said. "And there are decontamination chambers
+in the air locks, which would clean up anything he brought in; so there
+would be no epidemic. The exposure would take place outside of the
+domes--say if he opened his helmet to smell the perfume of the famous
+hypnotic marspoppy, or something like that. Then he would be infected,
+and after that it's non-contagious. All we need is somebody to buddy up
+to him, and take him out there. Nature and the poppy will do the rest."
+
+"Look," I said angrily, "cut that stuff out, Spender. If you're looking
+to me to disable the guy, forget about it. I won't. And I'm telling you
+right now that if I find anybody else does, I'll report it."
+
+       *       *       *       *       *
+
+For once Spender laughed. He turned to face me, and his blue eyes were
+dancing in his scarred, old face. He was laughing at me and my
+belligerent righteousness, but the real joke, of course, was that unless
+somebody actually caught him talking Frendon into going out there, there
+wouldn't be the slightest chance of proving he had done it. It was the
+simplest thing in the world to sneak out and back without being
+observed, and we both knew it.
+
+"All right," I said then. "Have your laugh, Spender. And you, too,
+Harding. I don't like the nut we've got any more than you do, but what
+you're talking about is mutiny and murder--"
+
+"Oh, he wouldn't necessarily die," Harding commented thoughtfully. "If
+he gets the serum within a few hours of the first symptoms, he probably
+would be just a very sick man for about a month. Too long to take the
+ship out with us when we go." He grinned at me. "And as for mutiny,
+nobody would be using any physical force on him. Nor--when you come
+right down to the specific matter of his commanding his ship--would
+there be any moral force employed either."
+
+"Have it any way you like," I said, standing up. "I don't care for the
+tone of this discussion, and I'm getting out of it."
+
+Harding laughed again at that. "O.K., Maise," he said in a friendly tone
+of voice. "Sorry. I guess you're right at that." I stood glaring at him.
+"Come on, sit down," he continued. "I know there isn't anything else for
+you to say about it. Being Exec and all, you pretty well have to stick
+up for him, and we don't hold it against you. And don't worry about us
+doing anything to your precious Frendon."
+
+His face darkened as he said it, though, and he swore. "Not right now,
+anyway. Still, that spore business isn't such a bad--"
+
+"Let it go," Spender cut him off with a mixture of irritation and
+affection. "Somebody told me about it, and so I just passed it on. It
+isn't as easy as it sounds, because that stuff can kill, and you stand a
+pretty good chance of making a mistake and catching it yourself." Then
+he looked up at me and smiled again. "You might as well stick around
+with us tonight and get drunk, Maise. No place else to go."
+
+I hesitated. It was a genuine offer of comradeship, and God knows I
+wanted it. I had been an outcast among these men too long. So I grinned
+back at him and slid down into the booth again, pressing the button for
+another drink. "I'll have one more, but then I think I have some work to
+do. Got to see a man about something."
+
+Korsakov stirred himself. He wasn't as drunk as he seemed, I think. He
+raised his head and looked at me carefully for a moment, but then he
+mumbled, "Once in three times. How do you figure it?"
+
+       *       *       *       *       *
+
+I left them soon after, located and spoke to Frendon, and then returned
+to the ship. The following morning at nine thirty Commander Frendon
+suddenly complained of a fever, and said he was going to the hospital.
+
+A couple of hours later, we received notification of his condition from
+the hospital, and at the same time orders from CINCMARS.
+
+Korsakov, eyes still bloodshot from his hangover, took the message out
+of the scanner and stared at it. Then he wordlessly handed it over to
+me.
+
+I read it. It said that Commander Frendon had contracted the spore
+disease, but that his condition was satisfactory due to the speedy
+treatment. He would, however, be confined to the hospital for one month.
+
+There was an empty space of three lines, and the orders followed,
+addressed to Frendon, to prepare to lift off planet in three days and
+rejoin the Seventh Fleet.
+
+Harding, Spender and Korsakov stared at me with awe when I read them the
+information. Nobody said anything for a full minute.
+
+"All right," I snapped finally. "Kors, ship out a quickie to CINCMARS
+and notify him that we can't join the fleet, because we don't have a
+captain, and the orders are to him, personally, and not the ship.
+Something has to be changed."
+
+Korsakov thoughtfully pulled on his shaggy, graying eyebrows with his
+thick fingers. "Why don't we wait until just before lift time," he
+suggested. "Then they won't have time to fish us out another sickman,
+and you'll be the skipper, Maise. What do you think of that?"
+
+"Lousy," I said. "A delay like that when they already must have that
+information kicking around somewhere might just be the thing to foul up
+the deal. This has to be played straight. Besides, I don't think they
+are likely to have any unassigned sick--I mean Psi Corps men around on
+Mars. Go chop out that report."
+
+He was reluctant, but he didn't waste any time about it. And almost
+immediately the reply came back ordering me to report to the Base Morale
+Officer and account for Frendon's sudden illness, or accident, or
+whatever it was. In the old days, that might not have meant so much; but
+now, of course, the Morale Officer is the whole works.
+
+"Well," I said then, "looks like the soup is hot. They're suspicious."
+Nobody said anything. They were all waiting, looking at me. "Who," I
+continued slowly and carefully, "do you suppose slipped Frendon the
+spore? They'll want to know, maybe."
+
+"Why, Maise," Harding said garrulously, "just like Spender told us. He
+went outside, the dome on a sight-seeing trip and made the mistake of
+looking at a marspoppy without an antihypnotic color filter. He just
+accidentally happened to expose himself."
+
+"He might not have gone alone," I suggested. "They'll want to know who
+went with him, since he probably didn't know anybody else on the Base."
+
+Korsakov grinned hugely. "We all did, skipper," he said. "They can't
+court-martial the whole crew for going out of bounds with him, can they?
+It would take a valuable ship out of action."
+
+"They might." I stood up, frowning. "Well, it all depends upon what
+Frendon told them, but, of course, he might have been drunk himself at
+the time, and a man like him would hesitate to admit something like
+that. That shouldn't be too hard to demonstrate. In which case," I
+added, letting them see a grin on my face, "he might have gone by
+himself after all, and then none of us would have to be even slightly
+implicated. Like for instance, if he spent some time with us drinking,
+and then went off by himself, how would we know where he was going?"
+
+They all laughed with evident relief. It would be a good story. They
+all knew that none of them had induced Frendon to disable himself, and
+for them that settled the question of who did it. Their willingness to
+take a full share of the blame off me settled the only other question I
+myself was concerned about.
+
+And this morning, when CINCMARS confirmed my acting captain status, and
+sent us a raw recruit for third officer replacement after moving Harding
+up to acting Exec, everybody was satisfied and happy.
+
+As happy as any small group of reluctant soldiers about to go into
+battle is ever likely to get, anyway.
+
+       *       *       *       *       *
+
+Lieutenant Maise dropped the report back on the SR Officer's desk when
+he had finished reading it.
+
+"How did you like it?" the SR wanted to know.
+
+"All right," Maise murmured. "It covers it. I just hope they can make
+some use of it, so that in the future the assignment of a Psi Corps
+officer won't be a general signal for a small-time mutiny."
+
+"That's the whole point of making these reports. They'll work out
+something."
+
+Maise nodded. "Where's Frendon now?"
+
+"He was transferred to XXX Base three days ago, right after he left your
+ship. Couldn't let him run around here for a while. Not after the
+trouble with your crew--somebody might recognize him. Besides, he
+already has another assignment there."
+
+"I think it was a pretty stupid thing," Maise grumbled. "He was so
+obvious. And suppose I hadn't warned him about it that night, or that I
+hadn't been there when the spore-poisoning idea came to a head among the
+crew? They might really have tried to get him outside the dome, or to
+get a spore culture inside. And then we'd all be sick or dead."
+
+"Not likely, sir," the SR Officer said with a polite, knowing smile.
+"You see, the aliens are presumably susceptible to their own
+bacteriological weapons. At least we think so from the way they went
+about it. They want our planets, and they didn't want to have to
+decontaminate them when they took them over. Besides, it's practically
+impossible to decontaminate an entire planet, anyway."
+
+"But we did it with Earth."
+
+"For morale purposes, Central Authority let it be known that they were
+able to decontaminate it, but what actually happened was that the spores
+lost their effectiveness within a few years of their original seeding.
+I'm surprised they didn't tell you that in the beginning--" He caught
+himself suddenly, then shrugged and smiled again.
+
+"Maybe you aren't supposed to be told," he continued without
+embarrassment. "It's sometimes hard for me to know about such things.
+You have no idea how confused the directives can get in an organization
+this large. Anyway, as you can see, your men couldn't have poisoned
+Frendon or themselves or anybody else with those spores. That's why we
+have been using that particular form of suggested violence in this
+unpleasant business. If, as you pointed out, something unexpected did
+happen, it would be absolutely harmless. Naturally," he added, "we
+wouldn't like to risk unnecessarily a professional actor with such a
+remarkably suitable physical appearance as Commander Frendon--even if
+the poor fellow doesn't have the slightest trace of psi ability."
+
+Maise gaped at him for a moment as he comprehended the careful,
+knowledgeable planning behind the ruse, much of which had not been
+explained to him before in his briefings. He said, "And I guess there is
+still a lot more about it that I don't know."
+
+The SR Officer nodded agreement. "Neither you nor I," he replied in bald
+understatement. "After all, there are some pretty intelligent men in
+charge of this last-ditch defense of our species, and they do keep a few
+of the more important things to themselves. For your own safety among
+your crew, I suggest that you keep this spore business equally secret."
+
+"I don't need your advice for that," Maise said with a low voice and a
+wry grin on his face. But the grin vanished as he stood up to go. He
+hesitated and shook his head uncertainly.
+
+"So that takes care of that," the SR concluded. "Now you're all set,
+aren't you?"
+
+"All set?" Maise murmured, half to himself. "Hell, I'm just starting,
+and I'm scared. When the boys asked me if I trusted the intuition of the
+Psi Corps men, I suddenly realized that I really wasn't quite sure
+myself. I've studied and worked for two solid years under extraordinary
+teachers, and back on Earth they said I was unusually good. But now that
+men's lives will depend on it, it almost seems like something out of a
+joke book." He stopped talking and sighed. "Well, that's the way it has
+to be, I guess."
+
+He turned to go, but the SR Officer called him back. "Just a minute,
+sir," he said. "You forgot to sign this report. You are the originating
+officer, you know."
+
+"Oh, yes." Maise went back to the desk. He picked up a pen and riffled
+through the pages to the last one. There he signed his name, scribbling
+rapidly,
+
+     "Alton A. B. Maise, Acting Lieutenant SCS Commander, Psi Corps."
+
+"There you are, lieutenant," he muttered, and started walking on back to
+the field where his ship was waiting.
+
+
+THE END
+
+
+
+
+
+End of the Project Gutenberg EBook of Shock Absorber, by E.G. von Wald
+
+*** END OF THIS PROJECT GUTENBERG EBOOK SHOCK ABSORBER ***
+
+***** This file should be named 24380-8.txt or 24380-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/4/3/8/24380/
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

@@ -1,0 +1,875 @@
+The Project Gutenberg EBook of Houlihan's Equation, by Walt Sheldon
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Houlihan's Equation
+
+Author: Walt Sheldon
+
+Release Date: June 19, 2009 [EBook #29168]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK HOULIHAN'S EQUATION ***
+
+
+
+
+Produced by Greg Weeks, Stephen Blundell and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+    _Every writer must seek his own Flowery Kingdom in imagination's
+    wide demesne, and if that search can begin and end on Earth his
+    problem has been greatly simplified. In post-war Japan Walt Sheldon
+    has found not only serenity, but complete freedom to write
+    undisturbed about the things he treasures most. A one-time Air Force
+    officer, he has turned to fantasy in his lighter moments, to bring
+    us such brightly sparkling little gems as this._
+
+
+ houlihan's
+   equation
+
+ _by ... Walt Sheldon_
+
+
+ The tiny spaceship had been built for a journey to a star. But its
+ small, mischievous pilots had a rendezvous with destiny--on Earth.
+
+
+I must admit that at first I wasn't sure I was hearing those noises. It
+was in a park near the nuclear propulsion center--a cool, green spot,
+with the leaves all telling each other to hush, be quiet, and the soft
+breeze stirring them up again. I had known precisely such a secluded
+little green sanctuary just over the hill from Mr. Riordan's farm when I
+was a boy.
+
+Now it was a place I came to when I had a problem to thrash out. That
+morning I had been trying to work out an equation to give the
+coefficient of discharge for the matter in combustion. You may call it
+gas, if you wish, for we treated it like gas at the center for
+convenience--as it came from the rocket tubes in our engine.
+
+Without this coefficient to give us control, we would have lacked a
+workable equation when we set about putting the first moon rocket around
+those extraordinary engines of ours, which were still in the undeveloped
+blueprint stage.
+
+I see I shall have to explain this, although I had hoped to get right
+along with my story. When you start from scratch, matter discharged
+from any orifice has a velocity directly proportional to the square root
+of the pressure-head driving it. But when you actually put things
+together, contractions or expansions in the gas, surface roughness and
+other factors make the velocity a bit smaller.
+
+At the terrible discharge speed of nuclear explosion--which is what the
+drive amounts to despite the fact that it is simply water in which
+nuclear salts have been previously dissolved--this small factor makes
+quite a difference. I had to figure everything into it--diameter of the
+nozzle, sharpness of the edge, the velocity of approach to the point of
+discharge, atomic weight and structure-- Oh, there is so much of this
+that if you're not a nuclear engineer yourself it's certain to weary
+you.
+
+Perhaps you had better take my word for it that without this
+equation--correctly stated, mind you--mankind would be well advised not
+to make a first trip to the moon. And all this talk of coefficients and
+equations sits strangely, you might say, upon the tongue of a man named
+Kevin Francis Houlihan. But I am, after all, a scientist. If I had not
+been a specialist in my field I would hardly have found myself engaged
+in vital research at the center.
+
+Anyway, I heard these little noises in the park. They sounded like small
+working sounds, blending in eerily mysterious fashion with a chorus of
+small voices. I thought at first it might be children at play, but then
+at the time I was a bit absent-minded. I tiptoed to the edge of the
+trees, not wanting to deprive any small scalawags of their pleasure, and
+peered out between the branches. And what do you suppose I saw? Not
+children, but a group of little people, hard at work.
+
+There was a leader, an older one with a crank face. He was beating the
+air with his arms and piping: "Over here, now! All right, bring those
+electrical connections over here--and see you're not slow as treacle
+about it!"
+
+There were perhaps fifty of the little people. I was more than startled
+by it, too. I had not seen little people in--oh, close to thirty years.
+I had seen them first as a boy of eight, and then, very briefly again,
+on my tenth birthday. And I had become convinced they could _never_ be
+seen here in America. I had never seen them so busy, either. They were
+building something in the middle of the glade. It was long and shiny and
+upright and a little over five feet in height.
+
+"Come along now, people!" said this crotchety one, looking straight at
+me. "Stop starin' and get to work! You'll not be needin' to mind that
+man standin' there! You know he can't see nor hear us!"
+
+Oh, it was good to hear the rich old tongue again. I smiled, and the
+foreman of the leprechauns--if that's what he was--saw me smile and
+became stiff and alert for a moment, as though suspecting that perhaps
+I actually could see him. Then he shrugged and turned away, clearly
+deeming such a thing impossible.
+
+I said, "Just a minute, friend, and I'll beg your pardon. It so happens
+I _can_ see you."
+
+He whirled to face me again, staring open-mouthed. Then he said, "What?
+What's that, now?"
+
+"I can see you," I said.
+
+"Ohhh!" he said and put his palms to his cheekbones. "Saints be with us!
+He's a believer! Run everybody--run for your lives!"
+
+And they all began running, in as many directions as there were little
+souls. They began to scurry behind the trees and bushes, and a sloping
+embankment nearby.
+
+"No, wait!" I said. "Don't go away! I'll not be hurting you!"
+
+They continued to scurry.
+
+I knew what it was they feared. "I don't intend catching one of you!" I
+said. "Come back, you daft little creatures!"
+
+But the glade was silent, and they had all disappeared. They thought I
+wanted their crock of gold, of course. I'd be entitled to it if I could
+catch one and keep him. Or so the legends affirmed, though I've wondered
+often about the truth of them. But I was after no gold. I only wanted to
+hear the music of an Irish tongue. I was lonely here in America, even if
+I had latched on to a fine job of work for almost shamefully generous
+pay. You see, in a place as full of science as the nuclear propulsion
+center there is not much time for the old things. I very much wanted to
+talk to the little people.
+
+I walked over to the center of the glade where the curious shiny object
+was standing. It was as smooth as glass and shaped like a huge cigar.
+There were a pair of triangular fins down at the bottom, and stubby
+wings amidships. Of course it was a spaceship, or a miniature replica of
+one. I looked at it more closely. Everything seemed almost miraculously
+complete and workable.
+
+I shook my head in wonder, then stepped back from the spaceship and
+looked about the glade. I knew they were all hiding nearby, watching me
+apprehensively. I lifted my head to them.
+
+"Listen to me now, little people!" I called out. "My name's Houlihan of
+the Roscommon Houlihans. I am descended from King Niall himself--or so
+at least my father used to say! Come on out now, and pass the time o'
+day!"
+
+Then I waited, but they didn't answer. The little people always had been
+shy. Yet without reaching a decision in so many words I knew suddenly
+that I _had_ to talk to them. I'd come to the glen to work out a knotty
+problem, and I was up against a blank wall. Simply because I was so
+lonely that my mind had become clogged.
+
+I knew that if I could just once hear the old tongue again, and talk
+about the old things, I might be able to think the problem through to a
+satisfactory conclusion.
+
+So I stepped back to the tiny spaceship, and this time I struck it a
+resounding blow with my fist. "Hear me now, little people! If you don't
+show yourselves and come out and talk to me, I'll wreck this spaceship
+from stem to stern!"
+
+       *       *       *       *       *
+
+I heard only the leaves rustling softly.
+
+"Do you understand? I'll give you until I count three to make an
+appearance! One!"
+
+The glade remained deathly silent.
+
+"Two!"
+
+I thought I heard a stirring somewhere, as if a small, brittle twig had
+snapped in the underbrush.
+
+"_Three!_"
+
+And with that the little people suddenly appeared.
+
+The leader--he seemed more wizened and bent than before--approached me
+slowly and warily as I stood there. The others all followed at a safe
+distance. I smiled to reassure them and then waved my arm in a friendly
+gesture of greeting.
+
+"Good morning," I said.
+
+"Good morning," the foreman said with some caution. "My name is Keech."
+
+"And mine's Houlihan, as I've told you. Are you convinced now that I
+have no intention of doing you any injury?"
+
+"Mr. Houlihan," said Keech, drawing a kind of peppered dignity up about
+himself, "in such matters I am never fully convinced. After living for
+many centuries I am all too acutely aware of the perversity of human
+nature."
+
+"Yes," I said. "Well, as you will quickly see, all I want to do is
+talk." I nodded as I spoke, and sat down cross-legged upon the grass.
+
+"Any Irishman wants to talk, Mr. Houlihan."
+
+"And often that's _all_ he wants," I said. "Sit down with me now, and
+stop staring as if I were a snake returned to the Island."
+
+He shook his head and remained standing. "Have your say, Mr. Houlihan.
+And afterward we'll appreciate it if you'll go away and leave us to our
+work."
+
+"Well, now, your work," I said, and glanced at the spaceship. "That's
+exactly what's got me curious."
+
+The others had edged in a bit now and were standing in a circle,
+intently staring at me. I took out my pipe. "Why," I asked, "would a
+group of little people be building a spaceship here in America--out in
+this lonely place?"
+
+Keech stared back without much expression, and said, "I've been
+wondering how you guessed it was a spaceship. I was surprised enough
+when you told me you could see us but not overwhelmingly so. I've run
+into believers before who could see the little people. It happens every
+so often, though not as frequently as it did a century ago. But knowing
+a spaceship at first glance! Well, I must confess that _does_ astonish
+me."
+
+"And why wouldn't I know a spaceship when I see one?" I said. "It just
+so happens I'm a doctor of science."
+
+"A doctor of science, now," said Keech.
+
+"Invited by the American government to work on the first moon rocket
+here at the nuclear propulsion center. Since it's no secret I can advise
+you of it."
+
+"A scientist, is it," said Keech. "Well, now, that's very interesting."
+
+"I'll make no apologies for it," I said.
+
+"Oh, there's no need for apology," said Keech. "Though in truth we
+prefer poets to scientists. But it has just now crossed my mind, Mr.
+Houlihan that you, being a scientist, might be of help to us."
+
+"How?" I asked.
+
+"Well, I might try starting at the beginning," he replied.
+
+"You might," I said. "A man usually does."
+
+Keech took out his own pipe--a clay dudeen--and looked hopeful. I gave
+him a pinch of tobacco from my pouch. "Well, now," he said, "first of
+all you're no doubt surprised to find us here in America."
+
+"I am surprised from time to time to find myself here," I said. "But
+continue."
+
+"We had to come here," said Keech, "to learn how to make a spaceship."
+
+"A spaceship, now," I said, unconsciously adopting some of the old
+manner.
+
+"Leprechauns are not really mechanically inclined," said Keech. "Their
+major passions are music and laughter and mischief, as anyone knows."
+
+"Myself included," I agreed. "Then why do you need a spaceship?"
+
+"Well, if I may use an old expression, we've had a feelin' lately that
+we're not long for this world. Or let me put it this way. We feel the
+world isn't long for itself."
+
+I scratched my cheek. "How would a man unravel a statement such as
+that?"
+
+"It's very simple. With all the super weapons you mortals have
+developed, there's the distinct possibility you might be blowin' us all
+up in the process of destroying yourselves."
+
+"There _is_ that possibility," I said.
+
+"Well, then, as I say," said Keech, "the little people have decided to
+leave the planet in a spaceship. Which we're buildin' here and now.
+We've spied upon you and learned how to do it. Well--almost how to do
+it. We haven't learned yet how to control the power--"
+
+"Hold on, now," I said. "Leaving the planet, you say. And where would
+you be going?"
+
+"There's another committee working on that. 'Tis not our concern. I was
+inclined to suggest the constellation Orion, which sounds as though it
+has a good Irish name, but I was hooted down. Be that as it may, my own
+job was to go into your nuclear center, learn how to make the ship, and
+proceed with its construction. Naturally, we didn't understand all of
+your high-flyin' science, but some of our people are pretty clever at
+gettin' up replicas of things."
+
+"You mean you've been spying on us at the center all this time? Do you
+know, we often had the feeling we were being watched, but we thought it
+was by the Russians. There's one thing which puzzles me, though. If
+you've been constantly around us--and I'm still able to see the little
+people--why did I never see you before?"
+
+"It may be we never crossed your path. It may be you can only see us
+when you're thinkin' of us, and of course truly believin' in us. I don't
+know--'tis a thing of the mind, and not important at the moment. What's
+important is for us to get our first ship to workin' properly and then
+we'll be on our way."
+
+"You're determined to go."
+
+"Truly we are, Mr. Houlihan. Now--to business. Just during these last
+few minutes a certain matter has crossed my mind. That's why I'm wastin'
+all this time with you, sir. You say you are a scientist."
+
+"A nuclear engineer."
+
+"Well, then, it may be that you can help us--now that you know we're
+here."
+
+"Help you?"
+
+"The power control, Mr. Houlihan. As I understand it, 'tis necessary to
+know at any instant exactly how much thrust is bein' delivered through
+the little holes in back. And on paper it looks simple enough--the
+square of somethin' or other. I've got the figures jotted in a book when
+I need 'em. But when you get to doin' it it doesn't come out exactly as
+it does on paper."
+
+"You're referring to the necessity for a coefficient of discharge."
+
+"Whatever it might be named," said Keech, shrugging. "'Tis the one thing
+we lack. I suppose eventually you people will be gettin' around to it.
+But meanwhile we need it right now, if we're to make our ship move."
+
+"And you want me to help you with this?"
+
+"That is exactly what crossed my mind."
+
+I nodded and looked grave and kneaded my chin for a moment softly.
+"Well, now, Keech," I said finally, "why should I help you?"
+
+"Ha!" said Keech, grinning, but not with humor, "the avarice of humans!
+I knew it! Well, Mr. Houlihan, I'll give you reason enough. The pot o'
+gold, Mr. Houlihan!"
+
+"The one at the end of the rainbow?"
+
+"It's not at the end of the rainbow. That's a grandmother's tale. Nor is
+it actually in an earthen crock. But there's gold, all right, enough to
+make you rich for the rest of your life. And I'll make you a
+proposition."
+
+"Go ahead."
+
+"We'll not be needin' gold where we're goin'. It's yours if you show us
+how to make our ship work."
+
+"Well, now, that's quite an offer," I said. Keech had the goodness to
+be quiet while I sat and thought for a while. My pipe had gone out and I
+lit it again. I finally said, "Let's have a look at your ship's drive
+and see what we can see."
+
+"You accept the proposition then?"
+
+"Let's have a look," I said, and that was all.
+
+Well, we had a look, and then several looks, and before the morning was
+out we had half the spaceship apart, and were deep in argument about the
+whole project.
+
+It was a most fascinating session. I had often wished for a true working
+model at the center, but no allowance had been inserted in the budget
+for it. Keech brought me paper and pencil and I talked with the aid of
+diagrams, as engineers are wont to do. Although the pencils were small
+and I had to hold them between thumb and forefinger, as you would a
+needle, I was able to make many sensible observations and even a few
+innovations.
+
+I came back again the next day--and every day for the following two
+weeks. It rained several times, but Keech and his people made a canopy
+of boughs and leaves and I was comfortable enough. Every once in a while
+someone from the town or the center itself would pass by, and stop to
+watch me. But of course they wouldn't see the leprechauns or anything
+the leprechauns had made, not being believers.
+
+I would halt work, pass the time of day, and then, in subtle fashion,
+send the intruder on his way. Keech and the little people just stood by
+and grinned all the while.
+
+At the end of sixteen days I had the entire problem all but whipped. It
+is not difficult to understand why. The working model and the fact that
+the small people with their quick eyes and clever fingers could spot all
+sorts of minute shortcomings was a great help. And I was hearing the old
+tongue and talking of the old things every day, and truly that went far
+to take the clutter out of my mind. I was no longer so lonely that I
+couldn't think properly.
+
+On the sixteenth day I covered a piece of paper with tiny mathematical
+symbols and handed it to Keech. "Here is your equation," I said. "It
+will enable you to know your thrust at any given moment, under any
+circumstances, in or out of gravity, and under all conditions of
+friction and combustion."
+
+"Thank you, Mr. Houlihan," said Keech. All his people had gathered in a
+loose circle, as though attending a rite. They were all looking at me
+quietly.
+
+"Mr. Houlihan," said Keech, "you will not be forgotten by the
+leprechauns. If we ever meet again, upon another world perchance, you'll
+find our friendship always eager and ready."
+
+"Thank you," I said.
+
+"And now, Mr. Houlihan," said Keech, "I'll see that a quantity of gold
+is delivered to your rooms tonight, and so keep my part of the
+bargain."
+
+"I'll not be needing the gold," I said.
+
+Keech's eyebrows popped upward. "What's this now?"
+
+"I'll not be needing it," I repeated. "I don't feel it would be right to
+take it for a service of this sort."
+
+"Well," said Keech in surprise, and in some awe, too, "well, now, musha
+Lord help us! 'Tis the first time I ever heard such a speech from a
+mortal." He turned to his people. "We'll have three cheers now, do you
+hear, for Mr. Houlihan--friend of the little people as long as he shall
+live!"
+
+And they cheered. And little tears crept into the corners of some of
+their turned-up eyes.
+
+We shook hands, all of us, and I left.
+
+       *       *       *       *       *
+
+I walked through the park, and back to the nuclear propulsion center. It
+was another cool, green morning with the leaves making only soft noises
+as the breezes came along. It smelled exactly like a wood I had known in
+Roscommon.
+
+And I lit my pipe and smoked it slowly and chuckled to myself at how I
+had gotten the best of the little people. Surely it was not every mortal
+who could accomplish that. I had given them the wrong equation, of
+course. They would never get their spaceship to work now, and later, if
+they tried to spy out the right information I would take special
+measures to prevent it, for I had the advantage of being able to see
+them.
+
+As for our own rocket ship, it should be well on its way by next St.
+Patrick's Day. For I had indeed determined the true coefficient of
+discharge, which I never could have done so quickly without those
+sessions in the glade with Keech and his working model.
+
+It would go down in scientific literature now, I suppose, as Houlihan's
+Equation, and that was honor and glory enough for me. I could do without
+Keech's pot of gold, though it would have been pleasant to be truly rich
+for a change.
+
+There was no sense in cheating him out of the gold to boot, for
+leprechauns are most clever in matters of this sort and he would have
+had it back soon enough--or else made it a burden in some way.
+
+Indeed, I had done a piece of work greatly to my advantage, and also to
+the advantage of humankind, and when a man can do the first and include
+the second as a fortunate byproduct it is a most happy accident.
+
+For if I had shown the little people how to make a spaceship they would
+have left our world. And this world, as long as it lasts--what would it
+be in that event? I ask you now, wouldn't we be even _more_ likely to
+blow ourselves to Kingdom Come without the little people here for us to
+believe in every now and then?
+
+
+
+
+Transcriber's Note:
+
+    This etext was produced from _Fantastic Universe_ September 1955.
+    Extensive research did not uncover any evidence that the U.S.
+    copyright on this publication was renewed. Minor spelling and
+    typographical errors have been corrected without note.
+
+
+
+
+
+End of the Project Gutenberg EBook of Houlihan's Equation, by Walt Sheldon
+
+*** END OF THIS PROJECT GUTENBERG EBOOK HOULIHAN'S EQUATION ***
+
+***** This file should be named 29168.txt or 29168.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/9/1/6/29168/
+
+Produced by Greg Weeks, Stephen Blundell and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

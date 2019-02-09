@@ -18,6 +18,12 @@ def main():
         help="Crawl all content"
     )
     parser.add_argument(
+        "--no-cache",
+        dest="no_cache",
+        action="store_true",
+        help="Ignore cache and re-crawl"
+    )
+    parser.add_argument(
         "--gutenberg",
         action="store_true",
         help="Crawl the Gutenberg Project for content"

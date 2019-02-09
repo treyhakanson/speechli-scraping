@@ -1,0 +1,1357 @@
+The Project Gutenberg EBook of The Bramble Bush, by Gordon Randall Garrett
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Bramble Bush
+
+Author: Gordon Randall Garrett
+
+Illustrator: Schelling
+
+Release Date: December 7, 2007 [EBook #23764]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE BRAMBLE BUSH ***
+
+
+
+
+Produced by Greg Weeks, Stephen Blundell and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+Transcriber's Note:
+
+    This etext was produced from _Analog_ August 1962. Extensive
+    research did not uncover any evidence that the U.S. copyright on
+    this publication was renewed. Minor spelling and typographical
+    errors have been corrected without note. Subscript characters are
+    shown within {braces}.
+
+
+
+
+The Bramble Bush
+
+ Usually, if a man's gotten into bad trouble
+ by getting into something,
+ he's a fool to go back. But there are times ...
+
+by Randall Garrett
+
+Illustrated by Schelling
+
+
+    _There was a man in our town,
+    And he was wond'rous wise;
+    He jumped into a bramble bush,
+    And scratch'd out both his eyes!_
+                          --Old Nursery Rhyme
+
+
+Peter de Hooch was dreaming that the moon had blown up when he awakened.
+The room was dark except for the glowing night-light near the door, and
+he sat up trying to separate the dream from reality. He focused his eyes
+on the glow-plate. What had wakened him? Something had, he was sure, but
+there didn't seem to be anything out of the ordinary now.
+
+The explosion in his dream had seemed extraordinarily realistic. He
+could still remember vividly the vibration and the _cr-r-r-ump!_ of the
+noise. But there was no sign of what might have caused the dream
+sequence.
+
+Maybe something fell, he thought. He swung his legs off his bed and
+padded barefoot over to the light switch. He was so used to walking
+under the light lunar gravity that he was no longer conscious of it. He
+pressed the switch, and the room was suddenly flooded with light. He
+looked around.
+
+Everything was in place, apparently. There was nothing on the floor that
+shouldn't be there. The books were all in their places in the bookshelf.
+The stuff on his desk seemed undisturbed.
+
+The only thing that wasn't as it should be was the picture on the wall.
+It was a reproduction of a painting by Pieter de Hooch, which he had
+always liked, aside from the fact that he had been named after the
+seventeenth-century Dutch artist. The picture was slightly askew on the
+wall.
+
+He was sleepily trying to figure out the significance of that when the
+phone sounded. He walked over and picked it up. "Yeah?"
+
+"Guz? Guz? Get over here quick!" Sam Willows' voice came excitedly from
+the instrument.
+
+"Whatsamatter, Puss?" he asked blearily.
+
+"Number Two just blew! We need help, Guz! Fast!"
+
+"I'm on my way!" de Hooch said.
+
+"Take C corridor," Willows warned. "A and B caved in, and the bulkheads
+have dropped. Make it snappy!"
+
+"I'm gone already," de Hooch said, dropping the phone back into place.
+
+He grabbed his vacuum suit from its hanger and got into it as though his
+own room had already sprung an air leak.
+
+_Number Two has blown!_ he thought. That would be the one that Ferguson
+and Metty were working on. What had they been cooking? He couldn't
+remember right off the bat. Something touchy, he thought; something
+pretty hot.
+
+But that wouldn't cause an atomic reactor to blow. It obviously hadn't
+been a nuclear blow-up of any proportions, or he wouldn't be here now,
+zipping up the front of his vac suit. Still, it had been powerful enough
+to shake the lunar crust a little or he wouldn't have been wakened by
+the blast.
+
+These new reactors could get out a lot more power, and they could do a
+lot more than the old ones could, but they weren't as safe as the old
+heavy-metal reactors, by a long shot. None had blown up yet--quite--but
+there was still the chance. That's why they were built on Luna instead
+of on Earth. Considering what they could do, de Hooch often felt that it
+would be safer if they were built out on some nice, safe
+asteroid--preferably one in the Jovian Trojan sector.
+
+He clamped his fishbowl on tight, opened the door, and sprinted toward
+Corridor C.
+
+The trouble with the Ditmars-Horst reactor was that it lacked any
+automatic negative-feedback system. If a D-H decided to go wild, it went
+wild. Fortunately, that rarely happened. The safe limits for reactions
+were quite wide--wider, usually, than the reaction limits themselves, so
+that there was always a margin of safety. And within the limits, a
+nicety of control existed that made nucleonics almost an esoteric branch
+of chemistry. Cookbook chemistry, practically.
+
+Want deuterium? Recipe: To 1.00813 gms. purest Hydrogen-1 add, slowly
+and with care, 1.00896 gms. fine-grade neutrons. Cook until well done in
+a Ditmars-Horst reactor. Yield: 2.01471 gms. rare old deuterium plus
+some two million million million ergs of raw energy. Now you are cooking
+with gas!
+
+All you had to do was keep the reaction going at a slow enough rate so
+that the energy could be bled off, and there was nothing to worry about.
+Usually. But control of the feebleizer fields still wasn't perfect,
+because the fields that enfeebled the reactions and made them easy to
+control weren't yet too well understood.
+
+       *       *       *
+
+Peter de Hooch turned into Corridor C and kept on running. There was
+plenty of air still in this corridor, and there was apparently little
+likelihood of his needing his vac suit. But on the moon nobody responds
+to an emergency call without a vac suit.
+
+He was troubled about Corridors A and B. The explosion must have been
+pretty violent to have sealed off two of the four corridors leading from
+the living quarters to the reaction labs. Two corridors went directly to
+one of the reactors, two went directly to the second. Two more connected
+the reactor labs themselves, putting the labs and the living quarters at
+the corners of an equilateral triangle. (Peter had never been able to
+figure out why A and B corridors led to Reactor Two, while C and D led
+to Reactor One. Logically, he thought, it should have been the other way
+around. Oh, well.)
+
+Going down C meant that he'd have to get to Reactor Two the long way
+around.
+
+What had the damage been? he asked himself. Had anyone been hurt? Or
+killed? He pushed the questions out of his mind. There was no point in
+speculating. He'd have the information soon enough.
+
+He took the cutoff to the left, at a sixty-degree angle to Corridor C,
+which led him directly to Corridor E, by-passing Reactor One. He noticed
+as he went by that the operations lamp was out. Nobody was working with
+Reactor One.
+
+As he pounded on down the empty corridor, he suddenly realized that he
+hadn't seen anyone else running with him. There were five other men in
+the reactor station, and--so far--he had seen no one. He knew where
+Willows was, but where were Ferguson, Metty, Laynard, and Quillan? He
+pushed those questions out of his mind, too, for the time being.
+
+A head popped out of the door at the far end of the corridor.
+
+"Guz! _Hurry_, Guz!"
+
+De Hooch didn't bother to answer Willows. He was short of breath as it
+was. He knew, besides, that no answer was expected. He had known Willows
+for years, and knew how he thought. It was Willows who had first tagged
+de Hooch with that silly nickname, "Guzzle". Not because Peter was such
+a heavy drinker--although he could hold it like a gentleman--but because
+he had thought "Guzzle" de Hooch was so uproariously funny. "Nobody
+likes a guzzle as well as de Hooch," he'd say, with an idiot grin. As a
+result, everybody called Peter "Guz" now.
+
+The head had vanished back into the control room of Reactor Two. De
+Hooch kept on running, his breath rasping loudly in the confines of the
+fishbowl helmet. Running four hundred yards isn't the easiest thing in
+the world, even if a man is in good physical condition. There was less
+weight to contend with, but the mass that had to be pushed along
+remained the same. The notion that running on Luna was an effortless
+breeze was one that only Earthhuggers clung to.
+
+He ran into the control room and stopped, panting heavily. "What ...
+happened?"
+
+Sam Willows' normally handsome face looked drawn. "Something went wrong.
+I don't know what. I was finishing up with Reactor One when I heard the
+explosion. They are both"--he gestured toward the reactor--"both in
+there."
+
+"Still alive?"
+
+"I think so. One of 'em, anyway. Take a look."
+
+De Hooch went over to the periscope and put his eyes to the binoculars.
+He could see two figures in heavy, dull-gray radiation-proof suits. They
+were lying flat on the floor, and neither was moving. De Hooch said as
+much.
+
+"The one on the left was moving his arm--just a little," Willows said.
+"I'll swear he was."
+
+Something in the man's voice made de Hooch turn his head away from the
+periscope's eyepieces. Willows' face was gray, and a thin film of greasy
+perspiration reflected the light from the overhead plates. The man was
+on the verge of panic.
+
+"Calm down, Puss," de Hooch said gently. "Where's Quillan and Laynard?"
+
+"They're in their rooms," Willows said in a tight voice. "Trapped. The
+bulkheads have closed 'em off in A. No air in the corridor. We'll have
+to dig 'em out. I called 'em both on the phone. They're all right, but
+they're trapped."
+
+"Did you call Base?"
+
+"Yes. They haven't got a ship. They sent three moon-cats, though. They
+ought to be here by morning."
+
+De Hooch looked up at the chronometer on the wall. Oh one twelve,
+Greenwich time. "Morning" meant any time between eight and noon; the
+position of the sun up on the surface had nothing to do with Lunar time.
+As a matter of fact, there was a full Earth shining at the moment, which
+meant that it wouldn't be dawn on the surface for a week yet.
+
+"If the cats from Base get here by noon, we'll be O.K., won't we?" de
+Hooch asked.
+
+"Look at the instruments," Willows said.
+
+De Hooch ran a practiced eye over the console and swallowed. "What were
+they running?"
+
+"Mercury 203," Willows said. "Half-life forty-six point five days. Beta
+and gamma emitter. Converts to Thallium 203, stable."
+
+"What did they want with a kilogram of the stuff?"
+
+"Special order. Shipment to Earth for some reason."
+
+"Have you checked the end-point? She's building up fast."
+
+"No. No. I haven't." He wet his lips with the tip of his tongue.
+
+"Check it," said de Hooch. "Do any of the controls work?"
+
+"I don't know. I didn't want to fiddle with them."
+
+"You start giving them a rundown. I'm going to get into a suit and go
+pull those two out of there--if they're still alive." He opened the
+locker and took his radiation-proof suit out. He checked it over
+carefully and began shucking his vac suit.
+
+       *       *       *       *       *
+
+A few minutes delay in getting to the men in the reactor's anteroom
+didn't matter much. If they hadn't been killed outright, and were still
+alive, they would probably live a good deal longer. The shells of the
+radiation suits didn't look damaged, and the instruments indicated very
+little radiation in the room. Whatever it was that had exploded had done
+most of its damage at the other end of the reactor. Evidently, a fissure
+had been opened to the surface, forty feet above--a fissure big enough
+to let all the air out of A and B corridors, and activate the automatic
+bulkheads to seal off the airless section.
+
+What troubled him was Willows. If he hadn't known the man so well, de
+Hooch would have verbally blasted him where he stood.
+
+His reaction to trouble had been typical. De Hooch had already seen
+Willows in trouble three times, and each time, the reaction had been the
+same: near panic. Every time, his first thought had been to scream for
+help rather than to do anything himself. Almost anyone else would have
+made one call and then climbed into a radiation suit to get Ferguson and
+Metty out of the anteroom. There was certainly no apparent immediate
+danger. But all that Willows had done was yell for someone to come and
+do his thinking and acting for him. He had called Base; he had called de
+Hooch; he had called Quillan and Laynard. But he hadn't done anything
+else.
+
+Now he had to be handled with kid gloves. If de Hooch didn't act calm,
+if he didn't go about things just right, Willows might very likely go
+over the line into total panic. As long as he had someone to depend on,
+he'd be all right, and de Hooch didn't want to lose the only help he had
+right now.
+
+"Fermium 256," said Willows in a tight, flat voice.
+
+"What?" de Hooch asked calmly.
+
+"Fermium 256," Willows repeated. "That's what the stuff is going to
+start building towards. Spontaneous fission. Half-life of three hours."
+He took a deep breath. "The reactor won't be able to contain it. We
+haven't got that kind of bleed-off control."
+
+"No," de Hooch agreed. "I suggest we stop it."
+
+"The freezer control isn't functioning," Willows said. "I guess that's
+what they went in there to correct."
+
+"I doubt it," de Hooch said carefully. "They wouldn't have needed suits
+for that. They must have had something else bothering them. I'd be
+willing to bet they went in to pull a sample and something went wrong."
+
+"Why? What makes you think so?"
+
+"If there'd been trouble, they'd have called for someone to stay here
+at the console. Both of them wouldn't have gone in if there was any
+trouble."
+
+"Yeah. Yeah, I guess you're right." He looked visibly relieved. "What do
+you suppose went wrong?"
+
+"Look at your meters. Four of 'em aren't registering."
+
+Willows looked. "I hadn't noticed. I thought they were just registering
+low. You're right, though. Yeah. You're right. The surface bleed-off.
+Hydrogen loss. Blew a valve, is all. Yeah." He grinned a little.
+"Must've been quite a volcano for a second or two."
+
+De Hooch grinned back at him. "Yeah. Must've. Give me a hand with these
+clamps."
+
+Willows began fastening the clamps on the heavy suit. "D'you think
+Ferguson and Metty are O.K., Guz?" he asked.
+
+De Hooch noticed it was the first time he had used the names of the two
+men. Now that there was a chance that they were alive, at least in his
+own mind, he was willing to admit that they were men he knew. Willows
+didn't want to think that anyone he knew had done such a terrible thing
+as die. It hit too close to home.
+
+The man wasn't thinking. He was willing to grasp at anything that
+offered him a chance--dream straws. The idea was to keep him busy, keep
+his mind on trivia, keep him from thinking about what was going on
+inside that reactor.
+
+He should have known automatically that it was building toward Fermium
+256. It was the most logical, easiest, and simplest way for a D-H
+reactor to go off the deep end.
+
+A Ditmars-Horst reactor took advantage of the fact that any number can
+be expressed as the sum of powers of two--and the number of nucleons in
+an atomic nucleus was no exception to that mathematical rule.
+
+Building atoms by adding nucleons wasn't as simple as putting marbles in
+a bag because of the energy differential, but the energy derived from
+the fusion of the elements lighter than Iron 56 could be compensated for
+by using it to pack the nuclei heavier than that. The trick was to find
+a chain of reactions that gave the least necessary energy transfer. The
+method by which the reactions were carried out might have driven a
+mid-Twentieth Century physicist a trifle ga-ga, but most of the
+reactions themselves would have been recognizable.
+
+There were several possible reactions which Ferguson and Metty could
+have used to produce Hg-203, but de Hooch was fairly sure he knew which
+one it was. The five-branch, double-alpha-addition scheme was the one
+that was easiest to use--and it was the only one that started the
+damnable doubling chain reaction, where the nuclear weights went up
+exponentially under the influence of the peculiar conditions within the
+reactor. 2-4-8-16-32-64-128-256 ... Hydrogen 2 and Helium 4 were stable.
+So were Oxygen 16 and Sulfur 32. The reaction encountered a sticky spot
+at Beryllium 8, which is highly unstable, with a half life of ten to
+the minus sixteenth seconds, spontaneously fissioning back into two
+Helium 4 nuclei. Past Sulfur 32, there was a lot of positron emission as
+the nuclei fought to increase the number of neutrons to maintain a
+stable balance. Germanium 64 is not at all stable, and neither is
+Neodymium 128, but the instability can be corrected by positive beta
+emission. When two nuclei of the resulting Xenon 128 are forced
+together, the positron emission begins long before the coalescence is
+complete, resulting in Fermium 256.
+
+But not even a Ditmars-Horst reactor can stand the next step, because
+matter itself won't stand it--not even in a D-H reactor. The trouble is
+that a D-H reactor _tries_. Mathematically, it was assumed that the
+resulting nucleus did exist--for an infinitesimal instant of time.
+Literally, mathematically, infinitesimal--so close to zero that it would
+be utterly impossible to measure it. Someone had dubbed the hypothetical
+stuff Instantanium 512.
+
+Whether Instantanium 512 had any real existence is an argument for
+philosophers only. The results, in any case, were catastrophic. The
+whole conglomeration came apart in a grand splatter of neutrons,
+protons, negatrons, positrons, electrons, neutrinos--a whole slew of
+Greek-lettered mesons of various charges and masses, and a fine
+collection of strange and ultrastrange particles. Energy? Just oodles
+and gobs.
+
+Peter de Hooch had heard about the results. He had no desire to
+experience them first hand. Fortunately, the reaction that led up to
+them took time. It could be stopped at any time up to the Fm-256 stage.
+According to the instruments, that wouldn't be for another six hours
+yet, so there was nothing at all to worry about. Even after that it
+could be stopped, provided one had a way to get rid of the violently
+fissioning fermium.
+
+"Connections O.K.?" Willows asked. His voice came over the earphones
+inside the ponderous helmet of the radiation suit.
+
+"Fine," said de Hooch. He adjusted the double periscope so that his
+vision was clear. "Perfect."
+
+He tested the controls, moving his arms and legs to see if the suit
+responded. The suit was so heavy that, without powered joints,
+controlled by servomechanisms, he would have been unable to move, even
+under Lunar gravity. With the power on, though, it was no harder than
+walking underwater in a diving suit. "All's well, Puss," he said.
+
+"I'll keep an eye on you," said Willows.
+
+"Fine. Well, here goes Colossus de Hooch." He began walking toward the
+door that led into the corridor which connected the reactor anteroom to
+the control room.
+
+       *       *       *       *       *
+
+It took time to drag the two inert figures out of the anteroom. All de
+Hooch could do was grab them under the armpits, apply power, and drag
+them out. He went out the same way he had come in, traversing the
+separate chambers in reverse order. First came the decontamination
+chamber, where the radioactive dust that might have settled on the suits
+was sluiced off by the detergent sprays. When the radiation detectors
+registered low enough, de Hooch dragged Ferguson into the outer chamber,
+then went back and got Metty and put him through the same process. Then
+he dragged them on into the control room so that Willows could get them
+out of the heavy suits.
+
+[Illustration]
+
+"Can you help me, Guz?" Willows asked. It was obvious that he didn't
+want to open the suits. He didn't want to see what might be inside. De
+Hooch helped him.
+
+They were both alive, but unconscious. Bones had been broken, and Metty
+appeared to be suffering from concussion. They were badly damaged, but
+they'd live.
+
+De Hooch and Willows made two trips down E and C corridors, carrying the
+men on a stretcher, to get them in bed. De Hooch splinted the broken
+bones as best he could and gave each of them a shot of narcodyne. He had
+to do the medical work because Quillan, the medic, was trapped in
+Corridor A. He called Quillan on the phone to tell him what had
+happened. He described the signs and symptoms of the victims as best he
+could, and then did what Quillan told him to do.
+
+"They ought to be all right," Quillan said. "With that dope in them,
+they'll be out cold for the next twelve hours, and by that time, the
+boys from Base will be here. Just leave 'em alone and don't move 'em any
+more."
+
+"Right. I'll call you back later. Right now, Puss and I are going to see
+what's wrong with the control linkages on Number Two."
+
+"Right. By-o."
+
+De Hooch and Willows walked back to the control room of Number Two
+Reactor in silence.
+
+Once inside the control room, de Hooch said: "How are those control
+circuits?" Willows was supposed to have been checking them while he had
+been dragging Ferguson and Metty out of the antechamber.
+
+"Well, I ... I'm not sure. I'll show you what I've found so far, Guz.
+You ought to take a look at them. I ... I'd like you to take a look-see.
+I think"--he gestured toward the console--"I think they're all right
+except for the freezer vernier and the pressure release control."
+
+_He doesn't trust his own work_, de Hooch thought. _Well, that's all
+right. Neither do I._
+
+Painstakingly, the two of them went over the checking circuits. Willows
+was right. The freezer and pressure controls were inoperable.
+
+"Damn," said de Hooch. "Double damn."
+
+"They're probably both stuck at the firewall," Willows said.
+
+"Sure. Where else? I'll have to go in there and unstick 'em. Help me get
+back into that two-legged tank again." He wished he knew more about what
+Ferguson and Metty had been doing. He wished he knew why the two men had
+gone into the anteroom in the first place. He wished a lot of things,
+but wishing was a useless pastime at this stage of the game.
+
+If only one of the two men had been in a condition to talk!
+
+He got back into his radiation-proof suit again, took one last look at
+the instruments on the console, and headed for the reactor.
+
+       *       *       *
+
+Through the first radiation trap--left turn, right turn, right turn,
+left turn--through the "cold" room, through the second radiation trap,
+through the decontamination chamber, and through the third radiation
+trap into the anteroom. Now that Ferguson and Metty were safely out of
+the way, he could give his attention to the damage that had been done.
+
+Had Ferguson and Metty actually come in to tap off a sample, as he had
+suggested to Willows? He looked around at the wreckage in the
+antechamber. Quite obviously, the heavy door of the sample chamber was
+wide open, and it certainly appeared that the wreckage was scattered
+from that point. Cautiously, he went over to look at the open sample
+chamber. It looked all right, except that the bottom was covered with a
+bright, metallic dust. He rubbed his finger over it and looked at the
+fingertip. A very fine dust. And yet it hadn't been scattered very much
+by the explosion. Heavy. Very likely osmium. Osmium 187 was stable, but
+it wasn't a normally used step toward Mercury 203. Four successive alpha
+captures would give Polonium 203, not mercury. Ditto for an oxygen
+fusion. It could be iridium or platinum, of course. Whatever it was, the
+instruments in his helmet told him it wasn't hot.
+
+He had a hunch that Ferguson and Metty had been building Mercury 203
+from Hafnium 179 by the process of successive fusions with Hydrogen 3
+and that something had gone wrong with the H-3 production. It appeared
+that the explosion had been a simple chemical blast caused by the air
+oxidation of H-2. But the bleeder vent at the other end of the reactor
+had apparently kicked at the same time. An enormous amount of unused
+energy had been released, blowing the entire emergency bleeder system
+out.
+
+Something didn't seem right. Something stuck in his craw, and he
+couldn't figure out what it was.
+
+He opened up the conduit boxes that led through the antechamber from the
+control console to the reactor beyond the firewall. Everything looked
+fine. That meant that whatever it was that had fouled up the controls
+was on the other side of the firewall.
+
+"How does it look?" Willows' voice came worriedly over the earphones.
+
+"Have I already said 'damn'?" de Hooch asked.
+
+"You have," Willows said with forced lightness. "You even said 'double
+damn'."
+
+"_Factorial_ damn, then!" said de Hooch.
+
+"What's the matter?"
+
+"Apparently the foul-up is on the _other_ side of the firewall."
+
+"Are you going in?"
+
+"I'll have to."
+
+"All right. Watch yourself."
+
+"I will." He went over to the periscope that surveyed the part of the
+reactor beyond the firewall. Everything looked normal enough. He
+carefully checked the pressure gauge. Normal.
+
+"Check the spectro for me, will you?" he asked. "Make sure that's just
+the normal helium atmosphere in there."
+
+"Sure." A pause. "Nothing but helium, Guz. What were you expecting?"
+
+"I don't think I'd care to walk into a hydrogen atmosphere at three
+hundred Centigrade."
+
+"Neither would I, but how could there be hydrogen in there?"
+
+"There shouldn't be. But there's something screwy going on here, and I
+can't put my finger on it."
+
+"Well, whatever it is, it isn't hydrogen in the reactor room."
+
+"O.K. Stand by. I'm going in."
+
+He walked over to the firewall door. On the other side of it was a small
+chamber where the oxygen and nitrogen of normal air would be swept out
+before he opened the inner door to go into the inner chamber itself.
+There was no need for an air lock, since small amounts of impurities in
+the He-4 didn't bother anything.
+
+It was just as he turned the lever that undogged the firewall door that
+he realized his mistake.
+
+But it was too late.
+
+The door jerked outward, and a hot wind picked him up and slammed him
+against the far wall.
+
+There was a moment of pain.
+
+Then--nothing.
+
+       *       *       *       *       *
+
+_There was something familiar about the man who was turning the wheel,
+but de Hooch couldn't place it. The man was wearing a black hood, as
+befitted a torturer and executioner._
+
+_"Idiot," said the hooded man, giving the wheel of the rack a little
+more pressure, "explain the following: If a half plus a half is equal to
+a whole, why is halfnium plus halfnium not equal to wholmium?"_
+
+_Stretched as he was on the rack, de Hooch could not think straight
+because of the excruciating pain._
+
+_"Because a half is eight point two eight per cent heavier than a hole,"
+said de Hooch._
+
+_"You are an idiot, none the less," said the torturer. He gave the wheel
+another twist. De Hooch wanted to scream, but he couldn't._
+
+_"Try again," said the torturer. "What is a half plus four plus four
+plus four plus four plus--"_
+
+"Stop!" _screamed de Hooch_. "Stop! _Stop at the osmium!_"
+
+_"Ah! But it_ didn't _stop at the osmium," said the hooded man. "It went
+on and on and on. Plus four plus four plus four plus four plus
+four--until there were so many plus fours in there that the place looked
+like an old-fashioned golf course."_
+
+_"My legs hurt," said de Hooch. The man was no longer wearing a hood,
+but de Hooch couldn't tell if it was Willows or himself._
+
+_"We will all go together when we go," said the man._
+
+_De Hooch turned his head away and looked at the ceiling._
+
+And he realized that it was the ceiling of the antechamber.
+
+"My legs hurt," he repeated. And he could hear the hoarse whisper inside
+the helmet. He realized that he was lying flat on his back. He had been
+jarred around quite a bit in the suit.
+
+He wondered if he could sit up. He managed to get both arms behind him
+and push himself into a sitting position. He wiggled his feet. The
+servos responded. He hurt all over, but a little experiment told him
+that he was only bruised. Nothing was broken. He hadn't been hit as hard
+as Ferguson and Metty had been.
+
+"Willows?" he said. "Willows?"
+
+There was no answer from the earphones.
+
+He looked at the chronometer dial inside his helmet. Oh two forty-nine.
+He had been unconscious less than ten minutes.
+
+The same glance brought his eyes to two other dials. The internal
+radiation of the suit was a little high, but nothing to worry about. But
+the dial registering the external radiation was plenty high. Without the
+protection of the suit, he wouldn't have lived through those ten
+minutes.
+
+Where was Willows?
+
+And then he knew, and he pushed any thought of further help from that
+quarter out of his mind. What had to be done would have to be done by
+Peter de Hooch alone. He climbed to his feet.
+
+His head hurt, and he swayed with nausea and pain. Only the massive
+weight of the suit's shoes kept him upright. Then it passed, and he
+blinked his eyes and shook his head to clear it. He found he was holding
+his breath, and he let it out.
+
+The trouble had been so simple, and yet he hadn't seen it. Oh, yes, he
+had! He _must_ have, subconsciously. Otherwise, how would he have
+guessed that the stuff in the sampling chamber was Osmium 187? Ferguson
+and Metty _had_ been trying to make Mercury 203 by adding eight
+successive tritium nuclei to Hafnium 179, progressing through Tantalum
+182, Tungsten 185, Rhenium 188, Osmium 191, Iridium 194, Platinum 197,
+and Gold 200, all of which were unstable.
+
+But the Hydrogen 3 reaction had gone wrong. The doubling had set in,
+producing Helium 4. Successive additions of the alpha particles to
+Hafnium 179 had produced, first, Tungsten 183, and then Osmium 187, both
+of which were stable.
+
+Ferguson and Metty, seeing that something was wrong, drew off a sample
+and then reset the reaction to produce the Hg-203 they wanted. Then they
+had come down to pick up the sample.
+
+They hadn't realized that the helium production had gone wild. Much more
+helium than necessary was being produced, and the bleeder valve had
+failed. When they opened the sample chamber, they got a blast of
+high-pressure helium right in the face. The shock of that sudden release
+had jarred the whole atmosphere inside the reaction chamber, and the
+bleeder valve had let go. But the violence of the pressure release had
+caused a fault to the surface to open up and had closed the valve
+again--jammed it, probably. There had been enough pressure left in there
+to blow de Hooch up against the nearest wall when he opened the door.
+Since the pressure indicator system was connected to the release system,
+when one had failed, the other had failed. That's why the pressure gauge
+had indicated normal.
+
+And, of course, it had been the pressure differential that had caused
+the controls to stick. Well, they ought to be all right now, then. He
+decided he'd better take a look.
+
+       *       *       *
+
+The firewall door was still open. He walked over to it and stepped into
+the small chamber that led to the inner reactor room. The inside door,
+much weaker than the outer firewall door, had been blown off its hinges.
+He stepped past it and went on in.
+
+What he saw made him jerk his glance away from the periscope in his
+helmet and check his radiation detectors again. Not much change. Relief
+swept over him as he looked back at the reactor itself. The normally
+dead black walls were glowing a dull red. It was pure thermal heat, but
+it shouldn't be doing that.
+
+Moving quickly, he went over to the place where the control cables came
+in through the firewall. It took him several minutes to assure himself
+that they would function from the control room now. There was nothing
+more to do but get out of here and get that reaction damped.
+
+He went out again, closing the firewall door behind him and dogging it
+tight. There would be no more helium production now.
+
+He went through the radiation trap to the decontamination chamber to
+wash off whatever it was he had picked up.
+
+The decontamination room was a mess.
+
+De Hooch stared at the twisted pipes and the stream of water that gushed
+out of a cracked valve. The blast had jarred everything loose. Well, he
+could still scrub himself off.
+
+Except that the scrubbers weren't working.
+
+He swore under his breath and twisted the valve that was supposed to
+dispense detergent. It did, thank Heaven. He doused himself good with it
+and then got under the flowing water.
+
+The radiation level remained exactly where it was.
+
+He walked over and pulled one of the brushes off the defunct scrubber
+and sudsed it up. It wasn't until he started to use it that he got a
+good look at his arms. He hadn't paid any attention before.
+
+He walked over to the mirror to get a good look.
+
+"You look magnificent," he told his reflection acidly.
+
+The radiation-proof armor looked as though it had been chrome plated.
+
+But de Hooch knew better than that. He knew exactly what had happened.
+He was nicely plated all over with a film of mercury, which had
+amalgamated itself with the metallic surface of the suit. He was
+thoroughly wet with the stuff and no amount of water and detergent would
+take it off.
+
+There was something wrong with Number Two Reactor, all right. It had
+leaked out some of the Mercury 203 that Ferguson and Metty had been
+making.
+
+He thought a minute. It hadn't been leaking out just before he opened
+the door in the firewall, because Willows would certainly have noticed
+the bright mercury line when he checked with the spectroscope. The stuff
+must have been released when the pressure dropped.
+
+He walked back to the anteroom and looked at the sampling chamber. There
+were a few droplets of mercury around the inlet.
+
+Thus far, the three pressure explosions had wrecked about everything
+that was wreckable, he thought. No, not quite. There was still the
+chance that the whole station would go if he didn't get back into the
+control room and stop that "powers of two" chain. The detonation of
+Instantanium 512 would finish the job by doing what high-pressure helium
+could never do.
+
+He glanced at the thermometer. The temperature behind the firewall had
+risen to two-forty Centigrade. It wasn't supposed to be above two
+hundred. It wasn't too serious, really, because a little heat like that
+wouldn't bother a Ditmars-Horst reactor, but it indicated that things
+back there weren't working properly.
+
+He turned away and walked back to the decontamination chamber. There
+must be some way he could get the mercury off the suit--because he
+couldn't take the suit off until the mercury was gone.
+
+       *       *       *       *       *
+
+First, he tried scrubbing. That was what showed him how upset he really
+was. He had actually scrubbed the armor on his left arm free of mercury
+when he realized what he was doing and threw the brush down in disgust.
+
+"Use your head, de Hooch!" he told himself. What good would it do to
+scrub the stuff off of the few places he could reach? In the bulky
+armor, he was worse than muscle-bound. He couldn't touch any part of his
+back; he couldn't bend far enough to touch his legs. His shoulders were
+inaccessible, even. Scrubbing was worse than useless--it was
+time-wasting.
+
+He picked up the brush again and began scrubbing at the other arm. It
+gave him something to do while he thought. While he was thinking, he
+wasn't wasting time.
+
+What would dissolve mercury? Nitric acid. Good old HNO{3}. Fine. Except
+that the hot lab was at the other end of the reactor, where the fissure
+had let all the air out. The bulkheads had dropped, and he couldn't get
+in. And, naturally, the nitric acid would be in the lab.
+
+For the first time, he found himself hating Willows' guts. If he were
+around, he could get some acid from the cold lab, or even from the other
+hot lab at Number One. If Willows--
+
+He stood up and dropped the brush. "Dolt! Boob! Moron! Idiot!" Not
+Willows. Himself. There was no reason on earth--or Luna--why he couldn't
+walk over to Number One hot lab and get the stuff himself. The habit of
+never leaving the lab without thorough decontamination was so thoroughly
+ingrained in him that he had simply never thought about it until that
+moment. But what did a little contamination with radioactive mercury
+mean at a time like this? He could take F corridor to Number One, use
+the decontamination chamber and the acid from the lab, shuck off his
+armor there, and come back through E corridor. F could be cleaned up
+later.
+
+So simple.
+
+He went through the light trap to the next chamber and turned the handle
+on the sliding door. The door wouldn't budge. It had been warped by the
+force of the helium blast, and it was stuck in its grooves.
+
+Well, there were tools. The thing could be unstuck.
+
+Peter de Hooch was a determined man, a strong man, and a smart man. But
+the door was more determined and stronger than he was, and his
+intelligence didn't give him much of an edge right then. After an hour's
+hard work, he managed to get the door open about eighteen inches. Then
+it froze fast and refused to move again. All the power and leverage he
+could bring to bear was useless. The door had opened all it was going to
+open. Beyond it, he could see the next radiation trap--and freedom.
+
+Eighteen inches would have been plenty of space for him to get through
+if he had not been wearing the radiation-proof suit. But he didn't dare
+take that suit off. By the time he got out of the suit, the intensely
+radioactive mercury on its surface would have made his death only a
+matter of time. And not much time at that.
+
+He told himself that if it were simply a matter of running to the
+control room to shut off the D-H reactor, he'd do it. That could have
+been done before he lost consciousness. But it wasn't that easy. Damping
+the reaction took time and control. The stuff had to be eased back
+slowly. Shutting off the Ditmars-Horst would simply blow a hole in the
+crust of Luna and kill everyone if he did it now. There were four or
+five men out there who would die if he pulled anything foolish like
+that. The explosion wouldn't be as powerful as the Instantanium 512
+reaction would be, but it would be none the less deadly for all that.
+
+There had to be either a way to scrape the mercury off the suit or a way
+to open the door another six inches.
+
+Or, he added suddenly, a way to get safely out of the suit.
+
+       *       *       *
+
+At the end of another twenty minutes, he had still thought of nothing.
+He wandered around the decontamination room, looking at everything,
+hoping he might see something that would give him a clue. He didn't.
+
+He went into the antechamber of the reactor and glared at the door in
+the firewall. The instruments said that things were getting pretty
+fierce on the other side of that wall. Temperature: Two ninety-five and
+still rising. Pressure? He carefully cracked the inlet of the sampling
+chamber and got a soft hiss. The helium was expanding from the heat,
+that was all. Part of the trouble with the reactor, he thought, was the
+high percentage of oxygen and nitrogen that had mixed in during the ten
+minutes or so that the door was open. All hell was fixing to bust loose
+in there, and he, Peter de Hooch, was right next to it.
+
+He walked back into the decontamination chamber.
+
+What would dissolve mercury?
+
+Mercury would dissolve gold. Would gold dissolve mercury?
+
+Very funny.
+
+He was like a turtle, de Hooch thought. Perfectly safe as long as he was
+in his shell, but take him out of it and he would die.
+
+_Hell of a way to spend the night_, he thought. _A night in shining
+armor._
+
+That struck him as funny. He began to laugh. And laugh.
+
+He almost laughed himself sick before he realized that it was fear and
+despair that were driving him into hysteria, not a sense of humor. He
+forced himself to calmness.
+
+He must be calm.
+
+He must think.
+
+Yes.
+
+How do you go about getting rid of a radioactive metal that is in effect
+welded to the outside of your suit?
+
+The trouble was, he was a nucleonics engineer, not a chemist. He
+remembered quite a bit of his chemistry, of course, but not as much as
+he would have liked.
+
+Could the stuff be neutralized?
+
+Sure, he told himself. Very simple. All he had to do was go climb into
+the reactor, and let the reactor do the job. Mercury 203 plus an alpha
+particle gives nice, stable Lead 207. Just go climb right into the
+Ditmars-Horst and let the Helium 4 do the job.
+
+But the thought stuck in his mind.
+
+He kept telling himself not to panic as Willows had done.
+
+And several minutes later, chuckling to himself in a half demented
+fashion, he opened the firewall door and went in to let the helium do
+the job.
+
+       *       *       *
+
+It was nearly eight in the morning, Greenwich time, when the three
+surface vehicles, with their wide Caterpillar treads lumbered to a halt
+near the kiosk that marked the entrance to the underground site of the
+laboratories.
+
+"O.K.," said one of the men in the first machine, holding a microphone
+to his lips, "let's go in. If what Willows said is true, the whole place
+may blow any minute now, but I'm not asking for volunteers. Nobody will
+be any safer up here than they will down there, and we have to do a job.
+Besides, Willows wasn't completely rational. Nobody would put on a vac
+suit and run away like that if he was in his right mind. So we can
+discount a lot of what he said when we picked him up on the road.
+
+"The five of us in this car are going straight to Number One Reactor to
+see what can be done to stop whatever is going on. The rest of you start
+trying to see if you can get those trapped men out of A and B corridors.
+All right, let's move in."
+
+Less than five minutes later, five men went into the control room of
+Number One Reactor. They found Peter de Hooch sound asleep in the
+control chair, and the instruments showed that the Ditmars-Horst reactor
+was inactive.
+
+One of the men shook de Hooch gently, awakening him in the middle of a
+snore.
+
+"What?" he said groggily.
+
+"We're here, Guz. Everything's O.K."
+
+"Sure everything's O.K. Nothing to it. All I did was wait until the
+temperature got above three fifty-seven Centigrade--above the boiling
+point of mercury. Then I went in and let the hot helium _boil_ the stuff
+off me. Nothing to it. Near boiled myself alive, but it did the trick."
+
+"What," asked the man in a puzzled voice, "are you talking about?"
+
+"I am a knight in dull armor," said Peter de Hooch, dozing off again.
+
+Then he roused himself a little, and said, without opening his eyes: "Hi
+yo, Quicksilver, away." And he was sound asleep again.
+
+
+    _And when he saw what he had done,
+    With all his might and main,
+    He jumped back in that bramble bush
+    And scratch'd them in again!..._
+
+
+
+
+
+
+
+End of Project Gutenberg's The Bramble Bush, by Gordon Randall Garrett
+
+*** END OF THIS PROJECT GUTENBERG EBOOK THE BRAMBLE BUSH ***
+
+***** This file should be named 23764.txt or 23764.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/3/7/6/23764/
+
+Produced by Greg Weeks, Stephen Blundell and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
