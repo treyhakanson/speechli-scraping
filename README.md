@@ -9,6 +9,16 @@ docker-compose build
 docker-compose up
 ```
 
+To run a specific command within the docker container:
+
+```sh
+docker-compose run --rm speechli-crawler <command>
+
+# Example of running the gutenberg parser without the cache:
+docker-compose run --rm speechli-crawler \
+    python main.py --gutenberg --parser --no-cache
+```
+
 To run the crawler locally:
 
 ```sh
