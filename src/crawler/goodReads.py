@@ -1,6 +1,6 @@
 """GoodReads sub-crawler."""
 import csv
-from urllib.parse import urlparse
+import json
 from .constants import DATA_DIR
 from .crawlable import Crawlable
 
@@ -8,11 +8,11 @@ from .crawlable import Crawlable
 BASE_DIR = DATA_DIR.joinpath("goodreads")
 BASE_URLS = (
     (
-        "quotes/BarackObama/index.csv",
+        "quotes/BarackObama/BarackObama.json",
         "https://www.goodreads.com/quotes/search?utf8=%E2%9C%93&q=Barack+Obama&commit=Search"
     ),
     (
-        "quotes/MahatmaGandhi/index.csv",
+        "quotes/MahatmaGandhi/MahatmaGandhi.json",
         "https://www.goodreads.com/quotes/search?utf8=%E2%9C%93&q=Mahatma+Gandhi+&commit=Search"
     ),
 )
@@ -25,9 +25,8 @@ def setup():
 
 def write(fpath, data):
     """Write data to a csv."""
-    with fpath.open(mode="w") as csvfile:        
-        for element in data:
-            csvfile.write(str(element).strip('\"') + "\n")
+    with fpath.open(mode="w") as f:
+        json.dump(data, f)
 
 
 def retrieve_quotes()  :
