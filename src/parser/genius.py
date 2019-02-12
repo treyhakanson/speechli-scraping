@@ -20,7 +20,7 @@ def parse(no_cache=False, **kwargs):
     content_start_re = re.compile(r"^(?:\*{3}[^*]*\*{3})$", re.M)
     regexes = [
         ("title", re.compile(r"Title:\s+(.*)")),
-        ("author", re.compile(r"Author:\s+(.*)")),
+        ("artist", re.compile(r"Artist:\s+(.*)")),
         (
             "releaseDate",
             re.compile(r"^Release\s+Date:\s+([\w\s,]+)(?:\s\[.*\])?$", re.M)

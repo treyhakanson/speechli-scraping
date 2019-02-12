@@ -83,8 +83,11 @@ def get_title(index_url):
     crawlable = Crawlable(index_url)
     crawlable.retrieve()
     if crawlable.success:
-        data = crawlable.parse("h1.header_with_cover_art-primary_info-title")[0].get_text()
-    return data
+        title = crawlable.parse("h1.header_with_cover_art-primary_info-title")[0].get_text()
+        for char in '<>"|*?./;:':
+            title=title.replace(char,'')
+
+    return title
 
 
 def retrieve_index(no_cache=False, **kwargs):
@@ -123,14 +126,18 @@ def retrieve_from_index(no_cache=False, **kwargs):
                 index_url = row[0]
                 title = get_title(index_url)
                 song_fpath = fpath.parent.joinpath(f"{title}.txt")
+                print(
+                    f"{index_url} -> {song_fpath}"
+                )
                 if not no_cache and song_fpath.exists():
                     # If we are using the cache and the result exists, skip
                     print(f"\tUsing cached results.")
                     continue
                 crawlable = Crawlable(index_url)
                 crawlable.retrieve()
+                artist = crawlable.parse(".header_with_cover_art-primary_info-primary_artist")[0].get_text()
                 text = crawlable.parse(".lyrics")[0].get_text()
-                write(song_fpath, text)
+                write(song_fpath, "Title: " + title+"\n"+ "Artist: " + artist+"\n"+text)
                 print(f"\tSuccessfully retrieved lyrics.")
 
 
