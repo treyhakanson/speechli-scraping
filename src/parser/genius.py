@@ -20,12 +20,7 @@ def parse(no_cache=False, **kwargs):
     content_start_re = re.compile(r"^(?:\*{3}[^*]*\*{3})$", re.M)
     regexes = [
         ("title", re.compile(r"Title:\s+(.*)")),
-        ("artist", re.compile(r"Artist:\s+(.*)")),
-        (
-            "releaseDate",
-            re.compile(r"^Release\s+Date:\s+([\w\s,]+)(?:\s\[.*\])?$", re.M)
-        ),
-        ("language", re.compile(r"Language:\s+(.*)"))
+        ("artist", re.compile(r"Artist:\s+(.*)"))
     ]
     for fpath in iterate(BASE_DIR):
         if "".join(fpath.suffixes) != ".txt":
@@ -42,6 +37,7 @@ def parse(no_cache=False, **kwargs):
         while not content_start_re.match(line):
             preamble += f"{line}\n"
             line = f.readline()
+            #Throwing error, removing the following 2 lines causes infinite loop
             if line == "":
                 raise Exception("Malformed file")
         for key, regex in regexes:
