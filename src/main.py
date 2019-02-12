@@ -1,7 +1,7 @@
 """Main entrypoint for scraping script."""
 from argparse import ArgumentParser
 from crawler import crawler
-from parser import parser
+#from parser import parser
 
 
 def create_arg_parser():
@@ -39,6 +39,11 @@ def main():
         action="store_true",
         help="Crawl the Genius Lyrics for content"
     )
+    arg_parser.add_argument(
+        "--quotes",
+        action="store_true",
+        help="Crawl the GoodReads quotes for content"
+    )      
     args = arg_parser.parse_args()
     if args.parse:
         parser.parse(**vars(args))
