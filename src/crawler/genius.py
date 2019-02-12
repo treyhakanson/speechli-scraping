@@ -83,10 +83,7 @@ def get_title(index_url):
     crawlable = Crawlable(index_url)
     crawlable.retrieve()
     if crawlable.success:
-        
-        # Problem 1: Not properly parsing the title of the song
-        data = [text for text in crawlable.parse("h1 > .header_with_cover_art-primary_info-title")]
-        print(data)
+        data = crawlable.parse("h1.header_with_cover_art-primary_info-title")[0].get_text()
     return data
 
 
@@ -132,9 +129,7 @@ def retrieve_from_index(no_cache=False, **kwargs):
                     continue
                 crawlable = Crawlable(index_url)
                 crawlable.retrieve()
-
-                # Problem 2: Site layout makes retrieving lyrics complex (certain parts of lyrics embedded in different html elements)
-                text = crawlable.parse("div > .lyrics")
+                text = crawlable.parse(".lyrics")[0].get_text()
                 write(song_fpath, text)
                 print(f"\tSuccessfully retrieved lyrics.")
 
