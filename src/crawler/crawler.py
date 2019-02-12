@@ -5,6 +5,6 @@ from . import gutenberg as gb, genius as gen
 def crawl(gutenberg=False, genius=False, all=False, **kwargs):
     """Invoke crawlers."""
     if all or genius:
-        gen.retrieve_index()
+        gen.fetch(**kwargs)
     elif all or gutenberg:
         gb.fetch(**kwargs)
