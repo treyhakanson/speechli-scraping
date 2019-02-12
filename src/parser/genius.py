@@ -34,10 +34,10 @@ def parse(no_cache=False, **kwargs):
         preamble = ""
         f = fpath.open(mode="r")
         line = f.readline()
-        while not content_start_re.match(line):
+        #while not content_start_re.match(line):
+        while not line.startswith('['):
             preamble += f"{line}\n"
             line = f.readline()
-            #Throwing error, removing the following 2 lines causes infinite loop
             if line == "":
                 raise Exception("Malformed file")
         for key, regex in regexes:
