@@ -25,11 +25,10 @@ def parse(no_cache=False, **kwargs):
     for fpath in iterate(BASE_DIR):
         if "".join(fpath.suffixes) != ".txt":
             continue
-        output_fpath = fpath.parent.joinpath(f"parsed/{fpath.name[:-4]}.json")
-        print(f"{fpath} -> {output_fpath}")
-        if not no_cache and output_fpath.exists():
-            print("Using cache.")
-            continue
+
+        #if not no_cache and output_fpath.exists():
+        #    print("Using cache.")
+        #    continue
         data = {}
         preamble = ""
         f = fpath.open(mode="r")
@@ -50,8 +49,11 @@ def parse(no_cache=False, **kwargs):
                 )
         data["content"] = f.read()
         f.close()
+        artist = data["artist"]
+        output_fpath = fpath.parent.joinpath("parsed/" + artist + ".json")
+        print(f"{fpath} -> {output_fpath}")
         if not output_fpath.parent.exists():
             output_fpath.parent.mkdir(parents=True)
-        with output_fpath.open(mode="w") as f:
+        with output_fpath.open(mode="a+") as f:
             json.dump(data, f)
         print("Done.")
