@@ -26,14 +26,10 @@ def parse(no_cache=False, **kwargs):
         if "".join(fpath.suffixes) != ".txt":
             continue
 
-        #if not no_cache and output_fpath.exists():
-        #    print("Using cache.")
-        #    continue
         data = {}
         preamble = ""
         f = fpath.open(mode="r")
         line = f.readline()
-        #while not content_start_re.match(line):
         while not line.startswith('['):
             preamble += f"{line}\n"
             line = f.readline()
@@ -47,6 +43,7 @@ def parse(no_cache=False, **kwargs):
                     f"Failed to match \"{key}\" regex in:\n",
                     preamble
                 )
+        data["type"] = "lyrics"
         data["content"] = f.read()
         f.close()
         artist = data["artist"]
