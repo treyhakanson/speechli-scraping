@@ -52,6 +52,7 @@ def parse(no_cache=False, **kwargs):
                     f"Failed to match \"{key}\" regex in:\n",
                     preamble
                 )
+        data["type"] = "books"
         data["content"] = f.read()
         f.close()
         if not output_fpath.parent.exists():
