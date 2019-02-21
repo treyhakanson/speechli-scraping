@@ -22,6 +22,7 @@ def parse(no_cache=False, **kwargs):
         ("title", re.compile(r"Title:\s+(.*)")),
         ("artist", re.compile(r"Artist:\s+(.*)"))
     ]
+    json_array = []
     for fpath in iterate(BASE_DIR):
         if "".join(fpath.suffixes) != ".txt":
             continue
@@ -47,10 +48,15 @@ def parse(no_cache=False, **kwargs):
         data["content"] = f.read()
         f.close()
         artist = data["artist"]
-        output_fpath = fpath.parent.joinpath("parsed/" + artist + ".json")
+        #output_fpath = fpath.parent.joinpath("parsed/" + artist + ".json")
+        output_fpath = fpath.parent.parent.joinpath("lyrics.json")
         print(f"{fpath} -> {output_fpath}")
         if not output_fpath.parent.exists():
             output_fpath.parent.mkdir(parents=True)
-        with output_fpath.open(mode="a+") as f:
-            json.dump(data, f)
-        print("Done.")
+        with output_fpath.open(mode="w+") as f:
+            json_array.append(data)
+            s = json.dumps(json_array)
+            f.write(s)
+
+        f.close()
+    print("Done.")
