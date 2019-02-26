@@ -6,55 +6,73 @@ from .crawlable import Crawlable
 
 
 BASE_DIR = DATA_DIR.joinpath("genius")
-BASE_URLS = (
-    (
-        "lyrics/PostMalone/index.csv",
-        "https://genius.com/artists/Post-malone"
-    ),
-    (
-        "lyrics/Drake/index.csv",
-        "https://genius.com/artists/Drake"
-    ),
-    (
-        "lyrics/Logic/index.csv",
-        "https://genius.com/artists/Logic"
-    ),
-    (
-        "lyrics/TravisScott/index.csv",
-        "https://genius.com/artists/Travis-scott"
-    ),
-    (
-        "lyrics/XXXTentacion/index.csv",
-        "https://genius.com/artists/Xxxtentacion"
-    ),
-    (
-        "lyrics/G-Eazy/index.csv",
-        "https://genius.com/artists/G-eazy"
-    ),
-    (
-        "lyrics/Eminem/index.csv",
-        "https://genius.com/artists/Eminem"
-    ),
-    (
-        "lyrics/LilWayne/index.csv",
-        "https://genius.com/artists/Lil-wayne"
-    ),
-    (
-        "lyrics/SkiMask/index.csv",
-        "https://genius.com/artists/Ski-mask-the-slump-god"
-    ),
-    (
-        "lyrics/KanyeWest/index.csv",
-        "https://genius.com/artists/Kanye-west"
-    ),
-
-)
+BASE_URLS = []
+# BASE_URLS = (
+#     (
+#         "lyrics/PostMalone/index.csv",
+#         "https://genius.com/artists/Post-malone"
+#     ),
+#     (
+#         "lyrics/Drake/index.csv",
+#         "https://genius.com/artists/Drake"
+#     ),
+#     (
+#         "lyrics/Logic/index.csv",
+#         "https://genius.com/artists/Logic"
+#     ),
+#     (
+#         "lyrics/TravisScott/index.csv",
+#         "https://genius.com/artists/Travis-scott"
+#     ),
+#     (
+#         "lyrics/XXXTentacion/index.csv",
+#         "https://genius.com/artists/Xxxtentacion"
+#     ),
+#     (
+#         "lyrics/G-Eazy/index.csv",
+#         "https://genius.com/artists/G-eazy"
+#     ),
+#     (
+#         "lyrics/Eminem/index.csv",
+#         "https://genius.com/artists/Eminem"
+#     ),
+#     (
+#         "lyrics/LilWayne/index.csv",
+#         "https://genius.com/artists/Lil-wayne"
+#     ),
+#     (
+#         "lyrics/SkiMask/index.csv",
+#         "https://genius.com/artists/Ski-mask-the-slump-god"
+#     ),
+#     (
+#         "lyrics/KanyeWest/index.csv",
+#         "https://genius.com/artists/Kanye-west"
+#     ),
+#
+# )
 
 
 def setup():
     """Setup the directories for crawling Genius."""
     if not BASE_DIR.exists():
         BASE_DIR.mkdir(parents=True)
+    define_structure()
+
+
+def define_structure():
+    """Creating structure containing artists and respective links"""
+    fpath = BASE_DIR.joinpath("lyrics/artist.txt")
+
+    with fpath.open(mode="r") as f:
+        for artist in f:
+            artist = artist[:-1]
+            print(artist)
+            file = "lyrics/" + artist + "/index.csv"
+            url = "https://genius.com/artists/" + artist
+            t = [file, url]
+            BASE_URLS.append(t)
+    print(f"\tSuccessfully created artist list.")
+
 
 
 def clean(link):
@@ -93,7 +111,10 @@ def get_title(index_url):
 def retrieve_index(no_cache=False, **kwargs):
     """Retrieve the genius indexes."""
     setup()
-    for loc, url in BASE_URLS:
+    #for loc, url in BASE_URLS:
+    for item in BASE_URLS:
+        loc = item[0]
+        url = item[1]
         fpath = BASE_DIR.joinpath(loc)
         print(f"{url} -> {loc}...")
         if not no_cache and fpath.exists():
@@ -114,7 +135,10 @@ def retrieve_index(no_cache=False, **kwargs):
 
 def retrieve_from_index(no_cache=False, **kwargs):
     """Retrieve the lyrics from the index."""
-    for loc, url in BASE_URLS:
+    #for loc, url in BASE_URLS:
+    for item in BASE_URLS:
+        loc = item[0]
+        url = item[1]
         fpath = BASE_DIR.joinpath(loc)
         with fpath.open(mode="r") as csvfile:
             csvreader = csv.reader(
