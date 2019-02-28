@@ -7,50 +7,6 @@ from .crawlable import Crawlable
 
 BASE_DIR = DATA_DIR.joinpath("genius")
 BASE_URLS = []
-# BASE_URLS = (
-#     (
-#         "lyrics/PostMalone/index.csv",
-#         "https://genius.com/artists/Post-malone"
-#     ),
-#     (
-#         "lyrics/Drake/index.csv",
-#         "https://genius.com/artists/Drake"
-#     ),
-#     (
-#         "lyrics/Logic/index.csv",
-#         "https://genius.com/artists/Logic"
-#     ),
-#     (
-#         "lyrics/TravisScott/index.csv",
-#         "https://genius.com/artists/Travis-scott"
-#     ),
-#     (
-#         "lyrics/XXXTentacion/index.csv",
-#         "https://genius.com/artists/Xxxtentacion"
-#     ),
-#     (
-#         "lyrics/G-Eazy/index.csv",
-#         "https://genius.com/artists/G-eazy"
-#     ),
-#     (
-#         "lyrics/Eminem/index.csv",
-#         "https://genius.com/artists/Eminem"
-#     ),
-#     (
-#         "lyrics/LilWayne/index.csv",
-#         "https://genius.com/artists/Lil-wayne"
-#     ),
-#     (
-#         "lyrics/SkiMask/index.csv",
-#         "https://genius.com/artists/Ski-mask-the-slump-god"
-#     ),
-#     (
-#         "lyrics/KanyeWest/index.csv",
-#         "https://genius.com/artists/Kanye-west"
-#     ),
-#
-# )
-
 
 def setup():
     """Setup the directories for crawling Genius."""
@@ -161,7 +117,7 @@ def retrieve_from_index(no_cache=False, **kwargs):
                 crawlable.retrieve()
                 artist = crawlable.parse(".header_with_cover_art-primary_info-primary_artist")[0].get_text()
                 text = crawlable.parse(".lyrics")[0].get_text()
-                write(song_fpath, "Title:" + title+"\n"+ "Artist:" + artist + text)
+                write(song_fpath, "Title: " + title+"\n"+ "Artist: " + artist + text)
                 print(f"\tSuccessfully retrieved lyrics.")
 
 
