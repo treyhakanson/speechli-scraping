@@ -161,7 +161,7 @@ def retrieve_from_index(no_cache=False, **kwargs):
                 crawlable.retrieve()
                 artist = crawlable.parse(".header_with_cover_art-primary_info-primary_artist")[0].get_text()
                 text = crawlable.parse(".lyrics")[0].get_text()
-                write(song_fpath, "Title: " + title+"\n"+ "Artist: " + artist + text)
+                write(song_fpath, "Title:" + title+"\n"+ "Artist:" + artist + text)
                 print(f"\tSuccessfully retrieved lyrics.")
 
 

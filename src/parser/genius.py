@@ -31,9 +31,10 @@ def parse(no_cache=False, **kwargs):
         preamble = ""
         f = fpath.open(mode="r")
         line = f.readline()
-        while not line.startswith('['):
+        while not (line.startswith('[') or line.startswith('(')):
             preamble += f"{line}\n"
             line = f.readline()
+            print(line)
             if line == "":
                 raise Exception("Malformed file")
         for key, regex in regexes:
@@ -48,7 +49,6 @@ def parse(no_cache=False, **kwargs):
         data["content"] = f.read()
         f.close()
         artist = data["artist"]
-        #output_fpath = fpath.parent.joinpath("parsed/" + artist + ".json")
         output_fpath = fpath.parent.parent.joinpath("lyrics.json")
         print(f"{fpath} -> {output_fpath}")
         if not output_fpath.parent.exists():
