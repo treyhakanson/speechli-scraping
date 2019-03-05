@@ -9,7 +9,17 @@ BASE_DIR = DATA_DIR.joinpath("goodreads")
 
 BASE_URLS = [["quotes/BarackObama.json", "60", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Barack+Obama&utf8=%E2%9C%93"],
             ["quotes/MahatmaGandhi.json", "40", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Mahatma+Gandhi+&utf8=%E2%9C%93"],
-            ["quotes/MartinLutherKingJr.json", "60", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Martin+Luther+King+Jr&utf8=%E2%9C%93"]]
+            ["quotes/MartinLutherKingJr.json", "60", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Martin+Luther+King+Jr&utf8=%E2%9C%93"],
+            ["quotes/NelsonMandela.json", "28", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Nelson+Mandela&utf8=%E2%9C%93"],
+            ["quotes/AlbertEinstein.json", "90", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Albert+Einstein&utf8=%E2%9C%93"],
+            ["quotes/MotherTeresa.json", "30", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Mother+Teresa&utf8=%E2%9C%93"],
+            ["quotes/AbrahamLincoln.json", "70", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Abraham+Lincoln&utf8=%E2%9C%93"],
+            ["quotes/LeonardodaVinci.json", "30", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Leonardo+da+Vinci&utf8=%E2%9C%93"],
+            ["quotes/MuhammadAli.json", "12", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Muhammad+Ali&utf8=%E2%9C%93"],
+            ["quotes/BenjaminFranklin.json", "70", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Benjamin+Franklin&utf8=%E2%9C%93"],
+            ["quotes/WinstonChurchill.json", "80", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Winston+Churchill&utf8=%E2%9C%93"],
+            ["quotes/GautamaBuddha.json", "10", "https://www.goodreads.com/quotes/search?commit=Search&page=10&q=Gautama+Buddha&utf8=%E2%9C%93"],
+            ["quotes/Socrates.json", "80", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Socrates&utf8=%E2%9C%93"]]
 
 def setupLinks():
     """Setup links for crawling Project GoodReads."""
