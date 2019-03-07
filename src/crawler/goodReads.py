@@ -7,7 +7,8 @@ from .crawlable import Crawlable
 
 BASE_DIR = DATA_DIR.joinpath("goodreads")
 
-BASE_URLS = [["quotes/BarackObama.json", "60", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Barack+Obama&utf8=%E2%9C%93"],
+BASE_URLS = [["quotes/Donald Trump.json", "60", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Donald+Trump&utf8=%E2%9C%93"],
+             ["quotes/BarackObama.json", "60", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Barack+Obama&utf8=%E2%9C%93"],
             ["quotes/MahatmaGandhi.json", "40", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Mahatma+Gandhi+&utf8=%E2%9C%93"],
             ["quotes/MartinLutherKingJr.json", "60", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Martin+Luther+King+Jr&utf8=%E2%9C%93"],
             ["quotes/NelsonMandela.json", "28", "https://www.goodreads.com/quotes/search?commit=Search&page=1&q=Nelson+Mandela&utf8=%E2%9C%93"],
